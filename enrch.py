@@ -12,7 +12,7 @@ else:
 		var3.write("\ufeff")
 		cpt=1
 		for i in var:
-			c=re.findall("^-? ?(\w+) :? ?(\d+|,)+ (mg|ml|µg|µl|gr|g|l).+",i,re.I)
+			c=re.findall("^-? ?(\w+) :? ?(\d+|,)+ (mg|ml|µg|µl|gr|g|l).+",i,re.I)#regex to extract medics
 			for j in c:
 				var2.write(j[0]+",.N+subst\n")
 				var3.write(j[0]+",.N+subst\n")
@@ -25,14 +25,14 @@ else:
 				print(str(cpt)+":"+x[0])
 			cpt+=1
 		var2.close()
-		print("SUPPRESSION DES DOUBLANTS DE SUBST.DIC...")
+		print("SUPPRESSION DES DOUBLANTS DE SUBST.DIC...")#deleting repeated occurrences 
 		var2=open('subst.dic','r',encoding='utf-16-le').readlines()
 		var4=open('subst.dic','w',encoding='utf-16-le')
 		for i in list(set(i.lower() for i in var2)):
 			var4.write(i)
 		print("FAIT!")
 		var4.close()
-		print("TRI DE SUBST.DIC....")
+		print("TRI DE SUBST.DIC....")#sorting results
 		var2=open('subst.dic','r',encoding='utf-16-le').readlines()
 		var4=open('subst.dic','w',encoding='utf-16-le')
 		var4.write("\ufeff")#BOM
