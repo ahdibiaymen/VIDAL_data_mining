@@ -1,9 +1,9 @@
 import re,urllib.request,sys 
 print("ERREUR NOMBRES D'ARGUMENT PASSES",len(sys.argv)-1)
 if len(sys.argv)==1: 
-	print("ERREUR AUCUN ARGUMENT PASSE")
+	print("ERREUR AUCUN ARGUMENT PASSEE")
 else:
-	if not(len(sys.argv)==2):
+	if not(len(sys.argv)==2):#to launch the script : python projetpy.py corpus-medical.txt letter1-letter2
 		print("ERREUR NOMBRE ARGUMENT DEPASSE LA LIMITE ,RESPECTEZ LA FORME A-Z")
 	else:
 		if not(sys.argv[1][1]=='-') or sys.argv[1][0].upper()>sys.argv[1][2].upper():
