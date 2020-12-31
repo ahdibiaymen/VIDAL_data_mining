@@ -14,26 +14,30 @@ To execute the project do the following steps :
 	- subst.dic contains all substances extracted with the Unitex dictionary suffix added to fits Unitex dictionary format
 	- info.txt contains extraction statistics 
 	
- - Execute the python script **enrch. py** to ENRICH **Subst.dic** dictionary by adding new substances from the file **corpus-medical.txt**  also it will delete duplicate occurrences and sort the file at the end 
+ - Execute the python script **enrch. py** to ENRICH **subst.dic** dictionary by adding new substances from the file **corpus-medical.txt** into new dictionnary also it will delete duplicated occurrences and sort from **subst.dic** in the end 
 	 -  \>>python **enrch. py** corpus-medical.txt 
-	 - it outputs the results in **subst_enri.dic**
+	 - it outputs the results in **subst_enri.dic** and alters **subst.dic**
 ## **Unitex** Part
  - Open unitex in french
 
- - Move the file **subset_enri.dic** to the path of Unitex **DELA** folder located in User's documents folder 
+ - Move the files **subset_enri.dic**  **subset.dic** to the path of Unitex **DELA** folder located in User's documents folder 
 	 - example of my path :
 
 		>D:\Users\Asus\Documents\Unitex-GramLab\Unitex\French\Dela 
  - Apply preprocessing & lexical parsing to **corpus-medical.txt** 
  - Open **subset_enri.dic** in DELA and compress the dictionary into FST 
 	 - you should see **subst_enri.bin** and **subs_enri.inf** as new files in DELA folder
+ - do the same for **subset.dic**
  - (optional) Open **projetpy.grf** in FSgraph to visualize to visualize extraction graphs schema
  - Apply lexical ressources to the preprocessed text previously 
-	 -select  **subst_enri.bin** in user ressources and **dela. fr** in system ressources
+	 -select  **subst_enri.bin** and **subst.bin** in user ressources and **dela. fr** in system ressources
 	 
 
- - now the final step is to locate patterns and build concordens
+ - now the final step is to locate patterns and build concordance
 	 - chose locate pattern
 	 - select the projetpy.grf graph 
 	 - select all_matches and merge with output text 
 	 - index all occurences in text
+	 - now build concordance to visualize the results
+		 - you can use web browser for better appearance
+		 - the results are stored in **corpus-medical_snt\concord.html** file located in the same folder of **corpus-medical.txt**
