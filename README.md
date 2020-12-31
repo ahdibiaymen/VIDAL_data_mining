@@ -39,5 +39,5 @@ To execute the project do the following steps :
 	 - select all_matches and merge with output text 
 	 - index all occurences in text
 	 - now build concordance to visualize the results
-		 - you can use web browser for better appearance
+		 - you can use a web browser for better appearance
 		 - the results are stored in **corpus-medical_snt\concord.html** file located in the same folder of **corpus-medical.txt**
