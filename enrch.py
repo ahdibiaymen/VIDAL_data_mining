@@ -14,8 +14,8 @@ else:
 		for i in var:
 			c=re.findall("^-? ?(\w+) :? ?(\d+|,)+ (mg|ml|µg|µl|gr|g|l).+",i,re.I)#regex to extract medics
 			for j in c:
-				var2.write(j[0]+",.N+subst\n")
-				var3.write(j[0]+",.N+subst\n")
+				var2.write(j[0].lower()+",.N+subst\n")
+				var3.write(j[0].lower()+",.N+subst\n")
 		var3.close()		
 		print("AFFICHAGE DES MEDICAMENTS ISSUS DE L'ENRICHISSEMENT ")	
 		var3=open('subst_enri.dic','r',encoding='utf-16-le').readlines()

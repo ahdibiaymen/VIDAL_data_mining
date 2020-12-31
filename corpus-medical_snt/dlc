@@ -119,6 +119,7 @@ accident de la voie publique,.N+NPNA:ms
 accident de train,.N+NDN:ms
 accident professionnel,.N+NA+z1:ms
 accident vasculaire cérébral,.N+NAA:ms
+acide valproïque,.n+subst
 acidose métabolique,.N+NA+z3:fs
 actes de la vie quotidienne,acte de la vie quotidienne.N+NPNA:mp
 activité électrique,.N+NA+z3:fs
@@ -278,6 +279,8 @@ avant-pied,.N+PN+Conc+z3:ms
 avis au,avis à.PREP+z1
 avis médical,.N+NA+z1:ms
 ayants droit,ayant droit.N+AN+Hum:mp:fp
+b1,.N+subst
+b1,.n+subst
 barres parallèles,.N+NA+Conc+z1:fp
 bas-fond,.N+AN+Conc:ms
 bien entendu,.ADV+z1
@@ -332,12 +335,12 @@ cavité péritonéale,.N+NA+Conc+z3:fs
 ce jour,.ADV+z1
 ce matin,.ADV+z1
 ce soir,.ADV+z1
-celle-ci,celui-ci.PRO+Pdem+z1:fs
-celles-ci,celui-ci.PRO+Pdem+z1:fp
+celle-ci,celui-ci.PRO+Dém+z1:fs
+celles-ci,celui-ci.PRO+Dém+z1:fp
 cellules épithéliales,cellule épithéliale.N+NA+Conc+z3:fp
 cellules myéloïdes,cellule myéloïde.N+NA+z3:fp
 cellules souches,cellule souche.N+NN+Conc+z3:fp
-celui-ci,.PRO+Pdem+z1:ms
+celui-ci,.PRO+Dém+z1:ms
 centre commercial,.N+NA+Conc+HumColl+z1:ms
 centre de rééducation,.N+NDN+Conc+HumColl:ms
 centre de ressources,.N+NDN+Conc:ms
@@ -445,7 +448,6 @@ de haut,.ADV+z1
 de jour en jour,.ADV+z1
 de jour,.A+z1
 de jour,.ADV+z1
-de l',du.DET+Dind+z1:ms:fs
 de l'équipe de,.PREP+z1
 de la bande,.A+z1
 de la bouche,.ADV+z1
@@ -458,7 +460,7 @@ de la région,.A+z1
 de la sortie,.A+z1
 de la tête,.ADV+z1
 de la vie,.ADV+z1
-de la,du.DET+Dind+z1:fs
+de là,.ADV+z1
 de laquelle,duquel.PREPPRO+z1:fs
 de loin,.ADV+z1
 de longue date,.ADV+z1
@@ -537,7 +539,7 @@ eau oxygénée,.N+NA+Conc+z1:fs
 effet de masse,.N+NDN:ms
 effort musculaire,.N+NA+z2:ms
 élément nouveau,.N+NA+z1:ms
-elle-même,lui-même.PRO+Ton+z1:3fs
+elle-même,lui-même.PRO+z1:fs
 embolie pulmonaire,.N+NA+z3:fs
 emphysème pulmonaire,.N+NA+z3:ms
 emporte-pièce,.N+VN+Conc+z1:ms:mp
@@ -892,9 +894,6 @@ jours fériés,jour férié.N+NA+z1:mp
 jugulaire externe,.N+NA+Conc+z3:fs
 jugulaire interne,.N+NA+Conc+z3:fs
 jusque là,.ADV+z1
-l'on,.PRO+PpvIL+z1:3fs:3ms
-l'un,.PRO+Pind+z1:ms
-l'une,l'un.PRO+Pind+z1:fs
 là aussi,.ADV+z1
 là encore,.ADV+z1
 la fois du,la fois de.PREP+z1
@@ -947,7 +946,7 @@ lors d,lors de.PREP+z1
 lors de,.PREP+z1
 lors des,lors de.PREP+z1
 lors du,lors de.PREP+z1
-lui-même,.PRO+Ton+z1:3ms
+lui-même,.PRO+z1:ms
 main droite,.N+NA+Conc+z1:fs
 main gauche,.N+NA+Conc+z1:fs
 mains propres,.N+NA+z1:fp
@@ -1015,6 +1014,7 @@ mois de mars,.N+NDN:ms
 mois de septembre,.N+NDN:ms
 mollet droit,.N+NA+Conc+z1:ms
 mollet gauche,.N+NA+Conc+z1:ms
+monoxyde d'azote,.n+subst
 morceau de viande,.N+NDN+Conc:ms
 mort naturelle,.N+NA+z1:fs
 mort subite,.N+NA+z1:fs
@@ -1173,7 +1173,7 @@ prothèse dentaire,.N+NA+Conc+z2:fs
 pseudo-membraneuse,pseudomembraneux.A+XA:fs
 quant à,.PREP+z1
 quant au,quant à.PREP+z1
-quelque chose,.PRO+Pind+z1:ms
+quelque chose,.PRO+z1:ms
 quelque peu,.ADV+z1
 quelques minutes,.ADV+z1
 question d,question de.PREP
@@ -1276,6 +1276,7 @@ situation de famille,.N+NDN:fs
 situation désespérée,.N+NA+z1:fs
 situation familiale,.N+NA+z1:fs
 situation sociale,.N+NA+z1:fs
+sodium chlorure,.n+subst
 soins d'hygiène,.N+NDN:mp
 soins dentaires,.N+NA+z1:mp
 soins infirmiers,.N+NA+z2:mp

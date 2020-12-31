@@ -1,0 +1,741 @@
+ simvastatine 20mg: 	simvastatine 20mg:1_0_0	, Inexium 40mg: 0_0_1 innohep 0,5mL: 1 inj SC à 16h, pipé	12323 12328 300 0
+_0_1 innohep 0,5mL: 	innohep 0,5mL:1 inj SC à 16h	, pipéracilline-tazobactam 4g/500mg: 1flac/8h, {S}Pa	12365 12379 300 1
+azobactam 4g/500mg: 	pipéracilline-tazobactam 4g/500mg:1flac/8h,	 {S}Particularités cliniques : {S}Bac	12416 12425 300 2
+azobactam 4g/500mg: 	tazobactam 4g/500mg:1flac/8h,	 {S}Particularités cliniques : {S}Bactérie Multi-Ré	12416 12425 300 3
+-résistant Statut : 	INEXIUM 40 mg, cpr gastro-résistant Statut:EC	 {S}A compter du 27/07/2009 pendant	12809 12811 309 4
+RALE {S}Posologie : 	INEXIUM 40 mg, cpr gastro-résistant Statut:1 cpr à 19 h	 {S}SIMVASTATINE 20 MG AR	12888 12900 311 5
+RALE {S}Posologie : 	Posologie:1 cpr à 19 h	 {S}SIMVASTATINE 20 MG ARROW, CPR Statut : EC {S}A compter	12888 12900 311 6
+ARROW, CPR Statut : 	SIMVASTATINE 20 MG ARROW, CPR Statut:EC	 {S}A compter du 22/07/2009 pendant 23 jo	12944 12946 312 7
+RALE {S}Posologie : 	SIMVASTATINE 20 MG ARROW, CPR Statut:1 cpr à 8 h	 {S}Date Nom du médecin {S}DEGUI	13023 13034 314 8
+RALE {S}Posologie : 	Posologie:1 cpr à 8 h	 {S}Date Nom du médecin {S}DEGUINES Jean-Baptiste {S}RENSEI	13023 13034 314 9
+ simvastatine 20mg: 	simvastatine 20mg:1_0_0	, Inexium 40mg: 0_0_1 innohep 0,5mL: 1 inj SC à 16h, pipé	13400 13405 330 10
+_0_1 innohep 0,5mL: 	innohep 0,5mL:1 inj SC à 16h	, pipéracilline-tazobactam 4g/500mg: 1flac/8h, {S}Su	13442 13456 330 11
+azobactam 4g/500mg: 	pipéracilline-tazobactam 4g/500mg:1flac/8h,	 {S}Surveillance particulière : {S}Ré	13493 13502 330 12
+azobactam 4g/500mg: 	tazobactam 4g/500mg:1flac/8h,	 {S}Surveillance particulière : {S}Régime : {S}Date	13493 13502 330 13
+ simvastatine 20mg: 	simvastatine 20mg:1_0_0	, Inexium 40mg: 0_0_1 innohep 0,5mL: 1 inj SC à 16h, pipé	16189 16194 406 14
+_0_1 innohep 0,5mL: 	innohep 0,5mL:1 inj SC à 16h	, pipéracilline-tazobactam 4g/500mg: 1flac/8h, {S}Pa	16231 16245 406 15
+azobactam 4g/500mg: 	pipéracilline-tazobactam 4g/500mg:1flac/8h,	 {S}Particularités cliniques : {S}Bac	16282 16291 406 16
+azobactam 4g/500mg: 	tazobactam 4g/500mg:1flac/8h,	 {S}Particularités cliniques : {S}Bactérie Multi-Ré	16282 16291 406 17
+-résistant Statut : 	INEXIUM 40 mg, cpr gastro-résistant Statut:EC	 {S}A compter du 27/07/2009 pendant	16675 16677 415 18
+RALE {S}Posologie : 	INEXIUM 40 mg, cpr gastro-résistant Statut:1 cpr à 19 h	 {S}SIMVASTATINE 20 MG AR	16754 16766 417 19
+RALE {S}Posologie : 	Posologie:1 cpr à 19 h	 {S}SIMVASTATINE 20 MG ARROW, CPR Statut : EC {S}A compter	16754 16766 417 20
+ARROW, CPR Statut : 	SIMVASTATINE 20 MG ARROW, CPR Statut:EC	 {S}A compter du 22/07/2009 pendant 23 jo	16810 16812 418 21
+RALE {S}Posologie : 	SIMVASTATINE 20 MG ARROW, CPR Statut:1 cpr à 8 h	 {S}Date Nom du médecin {S}DEGUI	16889 16900 420 22
+RALE {S}Posologie : 	Posologie:1 cpr à 8 h	 {S}Date Nom du médecin {S}DEGUINES Jean-Baptiste {S}RENSEI	16889 16900 420 23
+ de INEXIUM 40 mg : 	INEXIUM 40 mg:1 cp/j à 19 heures pendant un mois	, SIMVASTATINE 20 mg : 1 cp/j à 	35251 35285 768 24
+IMVASTATINE 20 mg : 	SIMVASTATINE 20 mg:1 cp/j à 8 heures pendant un mois	, INNOHEP 3500 : une injecti	35308 35341 768 25
+L {S}PLAVIX 75 mg : 	PLAVIX 75 mg:1 cp/ jour	 {S}BUFLOMEDIL 300 mg x 2/ jour {S}CRESTOR 5 mg : 1 cp/ j	37866 37876 832 26
+r {S}CRESTOR 5 mg : 	CRESTOR 5 mg:1 cp/ jour	 {S}TRIATEC 2.5 mg : 1 cp le matin {S}Poids : {S}78 kgs {	37928 37938 834 27
+{S}TRIATEC 2.5 mg : 	TRIATEC 2.5 mg:1 cp le matin	 {S}Poids : {S}78 kgs {S}Taille : {S}1m70 {S}ASA : {	37960 37973 835 28
+{S}ASPEGIC 100 mg : 	ASPEGIC 100 mg:1 sachet/jour	 {S}Aérosols BRICANYL-ATROVENT x 4/jour {S}CONTRAMAL	42243 42256 892 29
+r {S}CRESTOR 5 mg : 	CRESTOR 5 mg:1 cp/jour	 {S}DOLIPRANE 1 cp x 4/jour {S}INEXIUM 40 mg : 1 cp/jour {	42345 42354 895 30
+ {S}INEXIUM 40 mg : 	INEXIUM 40 mg:1 cp/jour	 {S}LASILIX 20 mg x 2/jour en bolus {S}TRIATEC 2.5 mg : 1	42403 42412 897 31
+{S}TRIATEC 2.5 mg : 	TRIATEC 2.5 mg:1 cp/jour	 {S}HEPARINE SE avec objectif de TCA entre 1.5 et 2. {S}	42470 42479 899 32
+ Cordarone 200 mg : 	Cordarone 200 mg:1 cp/j	 _ Kardegic : 75 mg/j _ Topalgic : 50 mg x 3/j _ Ulcar : 	108574 108580 2355 33
+1 cp/j _ Kardegic : 	Kardegic:75 mg/j	 _ Topalgic : 50 mg x 3/j _ Ulcar : 1 sachet x 4/j _ Lasilix : 4	108595 108602 2355 34
+ 250 mg/j _ Inexium 	Inexium:40 mg IVL	 _ Lovenox 0,4 ml x 1/j en sous cutané _ Amlor 10 mg 1 le matin	141530 141539 3014 35
+0 mg/j _ Inexium 40 	Inexium 40:mg IVL	 _ Lovenox 0,4 ml x 1/j en sous cutané _ Amlor 10 mg 1 le matin	141533 141539 3014 36
+g/j _ Inexium 40 mg 	Inexium 40 mg:IVL	 _ Lovenox 0,4 ml x 1/j en sous cutané _ Amlor 10 mg 1 le matin	141536 141539 3014 37
+40 mg IVL _ Lovenox 	Lovenox:0,4 ml x 1/j en sous cutané	 _ Amlor 10 mg 1 le matin per os _ Seresta 10	141551 141578 3014 38
+0 mg IVL _ Lovenox 0	Lovenox 0:,4 ml x 1/j en sous cutané	 _ Amlor 10 mg 1 le matin per os _ Seresta 1	141552 141578 3014 39
+sous cutané _ Amlor 	Amlor:10 mg 1 le matin per os	 _ Seresta 10 mg 1 le matin, 1 le midi, 1 le soir {	141588 141611 3014 40
+s cutané _ Amlor 10 	Amlor 10:mg 1 le matin per os	 _ Seresta 10 mg 1 le matin, 1 le midi, 1 le soir {	141591 141611 3014 41
+utané _ Amlor 10 mg 	Amlor 10 mg:1 le matin per os	 _ Seresta 10 mg 1 le matin, 1 le midi, 1 le soir {	141594 141611 3014 42
+l bilan hépatique : 	urée à 8 mmol/l bilan hépatique:cytolyse à 10 N sur les ASAT, associée à une cholestase modérée arguments pour une souffrance myocardique avec une myoglobine à 5400 et une troponine à 2,48 important syndrome inflammatoire biologique avec hyperleucocytose à 22 800/mm3 anémie à 8,2 g/dl, plaquettes à 107 000/mm3		150507 150789 3199 43
+rapie _ Calciparine 	Calciparine:0,2 ml x 2/j _ Ulcar 2/j	 _ Amlor 5 1_0_0 _ Haldol 10_0_10 gouttes {S	155777 155802 3245 44
+apie _ Calciparine 0	Calciparine 0:,2 ml x 2/j _ Ulcar 2/j	 _ Amlor 5 1_0_0 _ Haldol 10_0_10 gouttes {	155778 155802 3245 45
+e : {S}INEXIUM 20 : 	INEXIUM 20:1/j	 {S}CORTANCYL 20 : 3 le matin {S}MUCOMYST 200 mg : 3 sachets/j {S}	179563 179566 3696 46
+j {S}CORTANCYL 20 : 	CORTANCYL 20:3 le matin	 {S}MUCOMYST 200 mg : 3 sachets/j {S}FUNGYZONE : 3 fois/j	179586 179596 3697 47
+S}MUCOMYST 200 mg : 	MUCOMYST 200 mg:3 sachets/j	 {S}FUNGYZONE : 3 fois/j {S}AERIUS : 1 cp le soir {S}	179619 179630 3698 48
+le soir {S}CIFLOX : 	CIFLOX:2/j	 {S}CACIT VITAMINE D3 : 1 sachet le matin {S}SINGULAIR : 1 cp le soir 	179695 179698 3701 49
+x : _ Tazocilline : 	Tazocilline:4 g x 4/j IVL J6/10	 _ Triflucan 400 g/j IVL J6/10 _ Mopral 40/j. _ A	188642 188661 4009 50
+L J6/10 _ Triflucan 	Triflucan:400 g/j IVL J6/10	 _ Mopral 40/j. _ Acupan : 4 A/j IVSE * Per os : {S}B	188675 188692 4009 51
+/10 _ Triflucan 400 	Triflucan 400:g/j IVL J6/10	 _ Mopral 40/j. _ Acupan : 4 A/j IVSE * Per os : {S}B	188679 188692 4009 52
+10 _ Triflucan 400 g	Triflucan 400 g:/j IVL J6/10	 _ Mopral 40/j. _ Acupan : 4 A/j IVSE * Per os : {S}	188680 188692 4009 53
+prend : _ TRIFLUCAN 	TRIFLUCAN:400 mg, 2 fois par jour,	 _ VANCOMYCINE 1 g, 3 fois par jour, _ PERFALG	205864 205888 4431 54
+d : _ TRIFLUCAN 400 	TRIFLUCAN 400:mg, 2 fois par jour,	 _ VANCOMYCINE 1 g, 3 fois par jour, _ PERFALG	205868 205888 4431 55
+: _ TRIFLUCAN 400 mg	TRIFLUCAN 400 mg:, 2 fois par jour,	 _ VANCOMYCINE 1 g, 3 fois par jour, _ PERFAL	205870 205888 4431 56
+jour, _ VANCOMYCINE 	VANCOMYCINE:1 g, 3 fois par jour,	 _ PERFALGAN 1 g, 4 fois par jour, _ BRICANYL A	205904 205925 4431 57
+ur, _ VANCOMYCINE 1 	VANCOMYCINE 1:g, 3 fois par jour,	 _ PERFALGAN 1 g, 4 fois par jour, _ BRICANYL A	205906 205925 4431 58
+r, _ VANCOMYCINE 1 g	VANCOMYCINE 1 g:, 3 fois par jour,	 _ PERFALGAN 1 g, 4 fois par jour, _ BRICANYL 	205907 205925 4431 59
+r jour, _ PERFALGAN 	PERFALGAN:1 g, 4 fois par jour, _ BRICANYL ATROVENT, _ ZOPHREN, si besoin,	 _ TAZ	205939 206005 4431 60
+jour, _ PERFALGAN 1 	PERFALGAN 1:g, 4 fois par jour, _ BRICANYL ATROVENT, _ ZOPHREN, si besoin,	 _ TAZ	205941 206005 4431 61
+our, _ PERFALGAN 1 g	PERFALGAN 1 g:, 4 fois par jour, _ BRICANYL ATROVENT, _ ZOPHREN, si besoin,	 _ TA	205942 206005 4431 62
+esoin, _ TAZOCILINE 	TAZOCILINE:4 g, 3 fois par jour,	 _ LOVENOX 4000 unités, 1 injection par jour, _ 	206020 206041 4431 63
+oin, _ TAZOCILINE 4 	TAZOCILINE 4:g, 3 fois par jour,	 _ LOVENOX 4000 unités, 1 injection par jour, _ 	206022 206041 4431 64
+in, _ TAZOCILINE 4 g	TAZOCILINE 4 g:, 3 fois par jour,	 _ LOVENOX 4000 unités, 1 injection par jour, _	206023 206041 4431 65
+par jour, _ LOVENOX 	LOVENOX:4000 unités, 1 injection par jour,	 _ CONTRAMAL LP 100, 1 injection 3 foi	206053 206087 4431 66
+our, _ LOVENOX 4000 	LOVENOX 4000:unités, 1 injection par jour,	 _ CONTRAMAL LP 100, 1 injection 3 foi	206058 206087 4431 67
+ : _ Amoxicilline : 	Amoxicilline:1 g x 3/jour	 _ Metronidazole 500 mg : 3/jour _ Triflucan probabilis	208822 208834 4469 68
+ronidazole 500 mg : 	Metronidazole 500 mg:3/jour	 _ Triflucan probabiliste 400 mg : 1/jour _ Inexium 2	208861 208867 4469 69
+obabiliste 400 mg : 	Triflucan probabiliste 400 mg:1/jour	 _ Inexium 20 mg : 1/jour _ Alimentation nor	208903 208909 4469 70
+ALDACTONE 12.5 mg : 	ALDACTONE 12.5 mg:1 le midi	 {S}CARDENSIEL 5 mg le matin, 3.75 mg le soir {S}AERU	224322 224331 4749 71
+oir {S}AERUS 5 mg : 	AERUS 5 mg:1 le soir	 {S}TRIATEC 5 mg : 1 le soir {S}LASILIX 40 mg : 1 le matin, 	224395 224404 4751 72
+r {S}TRIATEC 5 mg : 	TRIATEC 5 mg:1 le soir	 {S}LASILIX 40 mg : 1 le matin, 1 le midi {S}DIFFU K : 3 p	224424 224433 4752 73
+ {S}LASILIX 40 mg : 	LASILIX 40 mg:1 le matin, 1 le midi	 {S}DIFFU K : 3 par jour {S}DEXERYL crème : 1	224454 224475 4753 74
+ * Per os : _ Lodoz 	Lodoz:2.5 mg 1 cp/j _ Ulcar 1 sachet x 2/j _ Diffu K 2 cps x 3/j	 _ Coversyl 2 mg	237014 237074 5042 75
+* Per os : _ Lodoz 2	Lodoz 2:.5 mg 1 cp/j _ Ulcar 1 sachet x 2/j _ Diffu K 2 cps x 3/j	 _ Coversyl 2 m	237015 237074 5042 76
+S}COVERSYL 2,5 mg : 	COVERSYL 2,5 mg:1 0 0	 {S}DIFFU K 600 mg .{S}1 1 2 {S}LODOZ 2,5 mg 1 0 0 {S}SMECT	244865 244870 5154 77
+{S}LEVOTHYROX 25µ : 	LEVOTHYROX 25µ:1/jour	 {S}COVERSYL 5 mg : 1/jour {S}KARDEGIC 75 mg : 1/jour {S}BU	275648 275654 5758 78
+ {S}COVERSYL 5 mg : 	COVERSYL 5 mg:1/jour	 {S}KARDEGIC 75 mg : 1/jour {S}BURINEX 1 mg : 1 matin et mid	275675 275681 5759 79
+{S}KARDEGIC 75 mg : 	KARDEGIC 75 mg:1/jour	 {S}BURINEX 1 mg : 1 matin et midi {S}KREDEX 6.25 mg : ½ ma	275703 275709 5760 80
+r {S}BURINEX 1 mg : 	BURINEX 1 mg:1 matin et midi	 {S}KREDEX 6.25 mg : ½ matin et soir {S}ALLOPURINOL 	275729 275744 5761 81
+LLOPURINOL 300 mg : 	ALLOPURINOL 300 mg:1/jour	 {S}XATRAL LP 10 mg : 1/jour {S}SPIRIVA 18µg : 1/jour {	275807 275813 5763 82
+r {S}SPIRIVA 18µg : 	SPIRIVA 18µg:1/jour	 {S}HISTOIRE DE LA MALADIE : {S}En juin 2009, Monsieur XXX XX	275862 275868 5765 83
+{S}ASPEGIC 250 mg : 	ASPEGIC 250 mg:1 sachet/jour	 {S}Aérosols BRICANYL-ATROVENT x 4/jour {S}CONTRAMAL	280488 280501 5828 84
+S}LEVOTHYROX 25 µ : 	LEVOTHYROX 25 µ:1 cp/jour	 {S}LOVENOX 0.4 ml SC/jour {S}MOPRAL 20 mg. {S}A PREVOI	280648 280657 5833 85
+ {S}INEXIUM 20 mg : 	INEXIUM 20 mg:1 cp/jour le soir	 {S}XATRAL LP : 1 cp/jour le soir {S}ZYLORIC 300 	295836 295853 6081 86
+{S}ZYLORIC 300 mg : 	ZYLORIC 300 mg:1 cp/jour le soir	 {S}CORDARONE 200 mg : 1 cp/jour le midi {S}SPEC	295909 295926 6083 87
+}CORDARONE 200 mg : 	CORDARONE 200 mg:1 cp/jour le midi	 {S}SPECIAFOLDINE 5 mg : 1 cp matin – 1 cp soi	295950 295967 6084 88
+ {S}SPIRIVA 18 µg : 	SPIRIVA 18 µg:1 gélule/jour le matin	 {S}TARDYFERON 80 mg : 1 cp matin – 1 cp soi	296063 296085 6086 89
+}TARDYFERON 80 mg : 	TARDYFERON 80 mg:1 cp matin – 1 cp soir	 {S}LASILIX faible 20 mg : 1 cp/jour le m	296109 296131 6087 90
+ILIX faible 20 mg : 	LASILIX faible 20 mg:1 cp/jour le matin	 {S}ALADACTONE 25 mg : 1 cp/jour le midi 	296159 296177 6088 91
+}ALADACTONE 25 mg : 	ALADACTONE 25 mg:1 cp/jour le midi	 {S}COVERSYL 2,5 mg : 1 cp/jour le soir {S}LEV	296201 296218 6089 92
+S}COVERSYL 2,5 mg : 	COVERSYL 2,5 mg:1 cp/jour le soir	 {S}LEVOTHYROX 100 µg : 1 cp/jour le matin {S}I	296241 296258 6090 93
+LEVOTHYROX 100 µg : 	LEVOTHYROX 100 µg:1 cp/jour le matin	 {S}IMOVANE 7,5 mg : 1 cp/jour le soir {S}CA	296283 296301 6091 94
+{S}IMOVANE 7,5 mg : 	IMOVANE 7,5 mg:1 cp/jour le soir	 {S}CARDENSIEL 2,5 mg : 1 cp le matin – 1 cp le 	296323 296340 6092 95
+CARDENSIEL 2,5 mg : 	CARDENSIEL 2,5 mg:1 cp le matin – 1 cp le soir	 {S}PREVISCAN 20 mg : ¼ cp ce soir	296365 296393 6093 96
+rs IBUPROFENE 400 : 	NEURONTIN 800 lors des douleurs IBUPROFENE 400:si douleurs	 {S}NAFTIDROFURYL 200 	304404 304415 6320 97
+rs IBUPROFENE 400 : 	IBUPROFENE 400:si douleurs	 {S}NAFTIDROFURYL 200 XYZALL 5 : 1_0_1 {S}VASTAREL 35 	304404 304415 6320 98
+URYL 200 XYZALL 5 : 	NAFTIDROFURYL 200 XYZALL 5:1_0_1	 {S}VASTAREL 35 : 1_0_1 NOCTRAN 10 : ½ au couche	304449 304454 6321 99
+ x 2 {S}BRISTOPEN : 	BRISTOPEN:1 g x 2	 {S}HISTOIRE DE LA MALADIE {S}Sur le plan du diabète : diabète 	304632 304639 6325 100
+s/24h _ Tazocilline 	Tazocilline:4 g x 3/j IVL (J2)	 _ Ciflox 750 mg par voie orale par jour (J2) _ In	327628 327646 6784 101
+24h _ Tazocilline 4 	Tazocilline 4:g x 3/j IVL (J2)	 _ Ciflox 750 mg par voie orale par jour (J2) _ In	327630 327646 6784 102
+h _ Tazocilline 4 g 	Tazocilline 4 g:x 3/j IVL (J2)	 _ Ciflox 750 mg par voie orale par jour (J2) _ In	327632 327646 6784 103
+j IVL (J2) _ Ciflox 	Ciflox:750 mg par voie orale par jour (J2)	 _ Inexium 20 mg le cp le soir _ Insul	327657 327692 6784 104
+L (J2) _ Ciflox 750 	Ciflox 750:mg par voie orale par jour (J2)	 _ Inexium 20 mg le cp le soir _ Insul	327661 327692 6784 105
+J2) _ Ciflox 750 mg 	Ciflox 750 mg:par voie orale par jour (J2)	 _ Inexium 20 mg le cp le soir _ Insul	327664 327692 6784 106
+tente _ Calciparine 	Calciparine:0,2 ml x 2/j en sous cutané	 _ Oxygène nasal : 3 litres/min {S}Transf	327830 327857 6785 107
+ente _ Calciparine 0	Calciparine 0:,2 ml x 2/j en sous cutané	 _ Oxygène nasal : 3 litres/min {S}Trans	327831 327857 6785 108
+é _ Oxygène nasal : 	Oxygène nasal:3 litres/min	 {S}Transfusion : non Infection nosocomiale : non Décl	327877 327889 6785 109
+ {S}INEXIUM 20 mg : 	INEXIUM 20 mg:1 le soir	 {S}CORDARONE 200 mg : 1 par jour {S}LASILIX 40 mg : 1 le	338898 338907 6992 110
+}CORDARONE 200 mg : 	CORDARONE 200 mg:1 par jour	 {S}LASILIX 40 mg : 1 le matin {S}DIFFU K : 2 gélules	338931 338941 6993 111
+ {S}LASILIX 40 mg : 	LASILIX 40 mg:1 le matin	 {S}DIFFU K : 2 gélules par jour {S}MINISINTROM : 1 cp l	338962 338972 6994 112
+ciait : {S}PLAVIX : 	PLAVIX:1 cp/jour ;	{S} {S}ALDACTONE 75 mg : 1_0_0 ;{S} {S}TAHOR 10 mg : 0_0_1 ;{S	378661 378672 8044 113
+S}ALDACTONE 75 mg : 	ALDACTONE 75 mg:1_0_0 ;	{S} {S}TAHOR 10 mg : 0_0_1 ;{S} {S}METFORMINE 500 mg : 1_	378698 378705 8046 114
+S} {S}TAHOR 10 mg : 	TAHOR 10 mg:0_0_1 ;	{S} {S}METFORMINE 500 mg : 1_0_1 ;{S} {S}ATHYMIL 10 mg : 0_0_	378727 378734 8048 115
+METFORMINE 500 mg : 	METFORMINE 500 mg:1_0_1 ;	{S} {S}ATHYMIL 10 mg : 0_0_1 ;{S} {S}SERESTA 10 mg : 1_	378762 378769 8050 116
+ {S}ATHYMIL 10 mg : 	ATHYMIL 10 mg:0_0_1 ;	{S} {S}SERESTA 10 mg : 1_0_1 ;{S} {S}XATRAL LP 10 mg : 0_0_	378793 378800 8052 117
+ {S}SERESTA 10 mg : 	SERESTA 10 mg:1_0_1 ;	{S} {S}XATRAL LP 10 mg : 0_0_1 ;{S} {S}IMOVANE : 1 cp le so	378824 378831 8054 118
+1 ;{S} {S}IMOVANE : 	IMOVANE:1 cp le soir si besoin.	 {S}Le patient nous a été adressé le 19 octobre 2	378882 378905 8058 119
+sogastroduodénale : 	ALDACTONE. fibroscopie oesogastroduodénale:antrite congestive, pas de lésion ulcérée ou tumorale.		381731 381785 8080 120
+ : {S}LOVENOX 0,4 : 	LOVENOX 0,4:1 injection sous-cutanée/jour ;	{S} {S}INEXIUM 40 mg : 0_0_1 ;{S} {S}	385263 385294 8109 121
+ {S}INEXIUM 40 mg : 	INEXIUM 40 mg:0_0_1 ;	{S} {S}TAHOR 10 mg : 0_0_1 ;{S} {S}METFORMINE 500 mg : 1_0_	385318 385325 8111 122
+S} {S}TAHOR 10 mg : 	TAHOR 10 mg:0_0_1 ;	{S} {S}METFORMINE 500 mg : 1_0_1 ;{S} {S}XATRAL LP 10 mg : 0_	385347 385354 8113 123
+METFORMINE 500 mg : 	METFORMINE 500 mg:1_0_1 ;	{S} {S}XATRAL LP 10 mg : 0_0_1 ;{S} {S}SERESTA : 1 cp s	385382 385389 8115 124
+1 ;{S} {S}SERESTA : 	SERESTA:1 cp si besoin le soir ;	{S} {S}COVERSYL 2,5 mg : 1_0_0 ;{S} {S}CARDENSIE	385440 385464 8119 125
+S}COVERSYL 2,5 mg : 	COVERSYL 2,5 mg:1_0_0 ;	{S} {S}CARDENSIEL 2,5 mg : ½ _ 0 – 0;{S} {S}KARDEGIC 75 m	385490 385497 8121 126
+CARDENSIEL 2,5 mg : 	CARDENSIEL 2,5 mg:½ _ 0 – 0;	{S} {S}KARDEGIC 75 mg : 1 cp par jour ;{S} {S}AUGMEN	385525 385535 8123 127
+{S}KARDEGIC 75 mg : 	KARDEGIC 75 mg:1 cp par jour ;	{S} {S}AUGMENTIN 1 g : 1_1_1 jusqu'au 9 novembre i	385560 385575 8125 128
+NTRAMAL LP 100 mg : 	CONTRAMAL LP 100 mg:1_0_1 si douleurs.	 {S}Restant à votre entière disposition po	385663 385681 8129 129
+associe : _ ZOVIRAX 	ZOVIRAX:800 mg x 3 par jour à la seringue électrique	 _ PERFALGAN 1 g x 4 par jou	389740 389784 8176 130
+cie : _ ZOVIRAX 800 	ZOVIRAX 800:mg x 3 par jour à la seringue électrique	 _ PERFALGAN 1 g x 4 par jou	389744 389784 8176 131
+ : _ ZOVIRAX 800 mg 	ZOVIRAX 800 mg:x 3 par jour à la seringue électrique	 _ PERFALGAN 1 g x 4 par jou	389747 389784 8176 132
+ctrique _ PERFALGAN 	PERFALGAN:1 g x 4 par jour si douleurs	 _ MOPRAL 40 mg : 1 fois par jour _ Antico	389798 389826 8176 133
+rique _ PERFALGAN 1 	PERFALGAN 1:g x 4 par jour si douleurs	 _ MOPRAL 40 mg : 1 fois par jour _ Antico	389800 389826 8176 134
+que _ PERFALGAN 1 g 	PERFALGAN 1 g:x 4 par jour si douleurs	 _ MOPRAL 40 mg : 1 fois par jour _ Antico	389802 389826 8176 135
+: _ CRESTOR 10 mg : 	CRESTOR 10 mg:1 cp par jour ;	{S} _ CORDARONE 200 : 1 par jour ;{S} _ LAMICTAL 25	402212 402227 8466 136
+} _ CORDARONE 200 : 	CORDARONE 200:1 par jour ;	{S} _ LAMICTAL 25 : 4 cp par jour ;{S} _ GARDENAL 100 	402250 402262 8467 137
+CARDENSIEL 2.5 mg : 	CARDENSIEL 2.5 mg:½ cp par jour ;	{S} _ DIFFU K : 4 gélules par jour ;{S} _ LASIL	402359 402374 8470 138
+} _ LASILIX 40 mg : 	LASILIX 40 mg:2 par jour ;	{S} _ COVERSYL 5 mg : 1 par jour. {S}Histoire de la ma	402434 402446 8472 139
+} _ COVERSYL 5 mg : 	COVERSYL 5 mg:1 par jour.	 {S}Histoire de la maladie : Madame XXX est hospitalisé	402469 402480 8473 140
+: _ CRESTOR 10 mg : 	CRESTOR 10 mg:1 cp par jour ;	{S} _ CORDARONE 200 : 1 par jour ;{S} _ LAMICTAL 25	406443 406458 8505 141
+} _ CORDARONE 200 : 	CORDARONE 200:1 par jour ;	{S} _ LAMICTAL 25 : 4 cp par jour ;{S} _ GARDENAL 100 	406481 406493 8506 142
+CARDENSIEL 2.5 mg : 	CARDENSIEL 2.5 mg:½ cp par jour ;	{S} _ DIFFU K : 1 cp matin et midi ;{S} _ LASIL	406590 406605 8509 143
+} _ LASILIX 40 mg : 	LASILIX 40 mg:2 par jour ;	{S} _ COVERSYL 5 mg : 1 cp ½ par jour ;{S} _ ALDACTONE	406665 406677 8511 144
+} _ COVERSYL 5 mg : 	COVERSYL 5 mg:1 cp ½ par jour ;	{S} _ ALDACTONE 25 : ½ cp le matin ;{S} _ LOVENOX	406700 406717 8512 145
+S} _ ALDACTONE 25 : 	ALDACTONE 25:½ cp le matin ;	{S} _ LOVENOX 0.4 ml : 1 injection à 20h00, à rééval	406739 406754 8513 146
+ _ LOVENOX 0.4 ml : 	LOVENOX 0.4 ml:1 injection à 20h00, à réévaluer ;	{S} _ IKOREL 10 mg : ½ cp matin	406778 406812 8514 147
+S} _ IKOREL 10 mg : 	IKOREL 10 mg:½ cp matin et soir.	 {S}Nous programmons un holter ECG le 29/12/2009	406834 406853 8515 148
+ cm x 3/j _ Témesta 	Témesta:1 mg le soir	 _ Atarax 0_50_100 _ Kardégic 160 mg/j _ Inexium 20 mg/j _ A	443763 443775 9224 149
+m x 3/j _ Témesta 1 	Témesta 1:mg le soir	 _ Atarax 0_50_100 _ Kardégic 160 mg/j _ Inexium 20 mg/j _ A	443765 443775 9224 150
+ 3/j _ Témesta 1 mg 	Témesta 1 mg:le soir	 _ Atarax 0_50_100 _ Kardégic 160 mg/j _ Inexium 20 mg/j _ A	443768 443775 9224 151
+mg le soir _ Atarax 	Atarax:0_50_100	 _ Kardégic 160 mg/j _ Inexium 20 mg/j _ Alimentation légère _ Fa	443786 443794 9224 152
+g le soir _ Atarax 0	Atarax 0:_50_100	 _ Kardégic 160 mg/j _ Inexium 20 mg/j _ Alimentation légère _ F	443787 443794 9224 153
+0_50_100 _ Kardégic 	Kardégic:160 mg/j	 _ Inexium 20 mg/j _ Alimentation légère _ Faire boire eau 2000	443807 443815 9224 154
+_100 _ Kardégic 160 	Kardégic 160:mg/j	 _ Inexium 20 mg/j _ Alimentation légère _ Faire boire eau 2000	443811 443815 9224 155
+00 _ Kardégic 160 mg	Kardégic 160 mg:/j	 _ Inexium 20 mg/j _ Alimentation légère _ Faire boire eau 200	443813 443815 9224 156
+ir {S}LOVENOX 0.4 : 	LOVENOX 0.4:1 injection par jour	 {S}INEXIUM 20 : 1 le soir {S}KARDEGIC 160 : 1 l	448755 448775 9350 157
+our {S}INEXIUM 20 : 	INEXIUM 20:1 le soir	 {S}KARDEGIC 160 : 1 le matin. {S}En vous remerciant de ce q	448793 448802 9351 158
+r {S}KARDEGIC 160 : 	KARDEGIC 160:1 le matin.	 {S}En vous remerciant de ce que vous ferez pour elle, b	448822 448833 9352 159
+tement: Kardegic 75:	Kardegic 75:1_0_0	 {S}Mopral 20 mg : 0_0_1 {S}Glucophage 500 mg: 0_0_1 {S}Levothy	451659 451664 9406 160
+0 {S}Mopral 20 mg : 	Mopral 20 mg:0_0_1	 {S}Glucophage 500 mg: 0_0_1 {S}Levothyrox 50 mg : 1_0_0 {S}Le	451684 451689 9407 161
+}Glucophage 500 mg: 	Glucophage 500 mg:0_0_1	 {S}Levothyrox 50 mg : 1_0_0 {S}Lexomil :0_0_1 {S}Laroxyl	451713 451718 9408 162
+}Levothyrox 50 mg : 	Levothyrox 50 mg:1_0_0	 {S}Lexomil :0_0_1 {S}Laroxyl 25;{S} 0_0_1 {S}Alteis 20 mg	451742 451747 9409 163
+_1 {S}Alteis 20 mg: 	Alteis 20 mg:1_0_0	 {S}Lasilix 20 mg : 1_0_0 {S}Forlax 10 mg 1_0_0 {S}Appareil Ca	451810 451815 9413 164
+ {S}Lasilix 20 mg : 	Lasilix 20 mg:1_0_0	 {S}Forlax 10 mg 1_0_0 {S}Appareil Cardio-vasculaire {S}Auscu	451836 451841 9414 165
+ {S}Lasilix 20 mg : 	Lasilix 20 mg:1_0_0	 {S}DELTOUR Laurence (Administrateur) {S}07/07/2009 18:14 {S}	453136 453141 9459 166
+er {S}Alteis 20 mg: 	Alteis 20 mg:1_0_0	 {S}DELTOUR Laurence (Administrateur) {S}07/07/2009 18:14 {S}A	453234 453239 9463 167
+r {S}Mopral 20 mg : 	Mopral 20 mg:0_0_1	 {S}DELTOUR Laurence (Administrateur) {S}07/07/2009 18:14 {S}A	453430 453435 9471 168
+}Glucophage 500 mg: 	Glucophage 500 mg:0_0_1	 {S}DELTOUR Laurence (Administrateur) {S}07/07/2009 18:14	453533 453538 9475 169
+ider {S}Kardegic 75:	Kardegic 75:1_0_0	 {S}DELTOUR Laurence (Administrateur) {S}07/07/2009 18:14 {S}A 	453728 453733 9484 170
+ur Ø KARDEGIC 160 : 	KARDEGIC 160:1 sachet par jour le midi	 Ø COVERSYL 5 mg : 1 cp par jour le matin 	470743 470768 9918 171
+i Ø COVERSYL 5 mg : 	COVERSYL 5 mg:1 cp par jour le matin	 Ø Le LAROXYL 25 a donc du être interrompu, 	470788 470810 9918 172
+. {S}Vitamine B12 : 	B12:augmentée à 1 500 pg/ml.	 {S}Folates : normaux à 14.1 ng/ml. {S}NFS : globule	477885 477909 10029 173
+r {S}Contramal 50 : 	Contramal 50:1 le matin deux heures avant les pansements	 {S}Esidrex 25 : ½ le ma	480802 480845 10062 174
+alciparine 0.2 ml : 	Calciparine 0.2 ml:1 matin et soir	 {S}Kardegic 160 : 1 le midi {S}Lasilix 250 : 	480973 480988 10066 175
+r {S}Kardegic 160 : 	Kardegic 160:1 le midi	 {S}Lasilix 250 : 1 le matin {S}Renagel : 3 par jour {S}Ca	481008 481017 10067 176
+di {S}Lasilix 250 : 	Lasilix 250:1 le matin	 {S}Renagel : 3 par jour {S}Cardensiel 1.25 : 1 le matin {	481036 481046 10068 177
+S}Cardensiel 1.25 : 	Cardensiel 1.25:1 le matin	 {S}Inexium 20 : 1 le soir {S}Zyloric 100 : 1 le midi 	481094 481104 10070 178
+tin {S}Inexium 20 : 	Inexium 20:1 le soir	 {S}Zyloric 100 : 1 le midi {S}Perfusions d’albumine {S}En r	481122 481131 10071 179
+ir {S}Zyloric 100 : 	Zyloric 100:1 le midi	 {S}Perfusions d’albumine {S}En restant à votre disposition	481150 481159 10072 180
+17:40 topalgic 100: 	topalgic 100:1 amp perfusette	 {S}Mairesse Marina (Médecin) {S}23/04/2009 17:40 t	483342 483358 10114 181
+17:40 topalgic 100: 	topalgic 100:1 amp perfusette non fait fait le 23/04/2009	 {S}17:50 par ANSEL {S}	483426 483472 10116 182
+E {S}KARDEGIC 300 : 	KARDEGIC 300:1 à 8h	 {S}CALCIDIA 1,54 g : 1 sachet à 12h {S}CARDENSIEL 2,5 M : 1 	500689 500695 10560 183
+S}CALCIDIA 1,54 g : 	CALCIDIA 1,54 g:1 sachet à 12h	 {S}CARDENSIEL 2,5 M : 1 à 8h {S}DAFALGAN 500 : 6 	500718 500732 10561 184
+}CARDENSIEL 2,5 M : 	CARDENSIEL 2,5 M:1 à 8h	 {S}DAFALGAN 500 : 6 gélules par jour, 3x/ jr {S}DUPHALAC	500756 500762 10562 185
+h {S}DAFALGAN 500 : 	DAFALGAN 500:6 gélules par jour, 3x/ jr	 {S}DUPHALAC 10 : 3 sachets/ jr {S}GABACE	500782 500808 10563 186
+jr {S}DUPHALAC 10 : 	DUPHALAC 10:3 sachets/ jr	 {S}GABACET 400 : 1_0_1 {S}GUTRON avant la dialyse {S}K	500827 500840 10564 187
+ {S}LYRICA 150 mg : 	LYRICA 150 mg:1_0_1	 {S}NEURONTIN 300 : 1 à 18h {S}OXYNORM 5 mg : avant pansement	500951 500956 10568 188
+ {S}NEURONTIN 300 : 	NEURONTIN 300:1 à 18h	 {S}OXYNORM 5 mg : avant pansements {S}AERIUS : 1_0_1 {S}TA	500977 500984 10569 189
+h {S}OXYNORM 5 mg : 	OXYNORM 5 mg:avant pansements	 {S}AERIUS : 1_0_1 {S}TAHOR 80 mg : 1 à 18h {S}EXAM	501004 501020 10570 190
+_1 {S}TAHOR 80 mg : 	TAHOR 80 mg:1 à 18h	 {S}EXAMEN MEDICAL {S}Trophique : {S}Escarre talon gauche, pl	501058 501065 10572 191
+Per os : _ Duphalac 	Duphalac:2 s x 3/j	 _ Modopar 250_250_250_125 _ Atarax 25 mg le soir _ Hemigoxine	533909 533918 11081 192
+r os : _ Duphalac 2 	Duphalac 2:s x 3/j	 _ Modopar 250_250_250_125 _ Atarax 25 mg le soir _ Hemigoxine	533911 533918 11081 193
+2 s x 3/j _ Modopar 	Modopar:250_250_250_125	 _ Atarax 25 mg le soir _ Hemigoxine 1 cp x 1 _ Lasilix 4	533930 533945 11081 194
+ x 3/j _ Modopar 250	Modopar 250:_250_250_125	 _ Atarax 25 mg le soir _ Hemigoxine 1 cp x 1 _ Lasilix 	533933 533945 11081 195
+50_250_125 _ Atarax 	Atarax:25 mg le soir _ Hemigoxine 1 cp x 1	 _ Lasilix 40 mg x 1 _ Aspégic 250 mg/	533956 533992 11081 196
+250_125 _ Atarax 25 	Atarax 25:mg le soir _ Hemigoxine 1 cp x 1	 _ Lasilix 40 mg x 1 _ Aspégic 250 mg/	533959 533992 11081 197
+_125 _ Atarax 25 mg 	Atarax 25 mg:le soir _ Hemigoxine 1 cp x 1	 _ Lasilix 40 mg x 1 _ Aspégic 250 mg/	533962 533992 11081 198
+ 1 cp x 1 _ Lasilix 	Lasilix:40 mg x 1 _ Aspégic 250 mg/j _ Cetornan 1 s x 2/	 _ Coversyl 2 mg le mati	534004 534054 11081 199
+cp x 1 _ Lasilix 40 	Lasilix 40:mg x 1 _ Aspégic 250 mg/j _ Cetornan 1 s x 2/	 _ Coversyl 2 mg le mati	534007 534054 11081 200
+x 1 _ Lasilix 40 mg 	Lasilix 40 mg:x 1 _ Aspégic 250 mg/j _ Cetornan 1 s x 2/	 _ Coversyl 2 mg le mati	534010 534054 11081 201
+: 1/j – BUSPIRONE : 	BUSPIRONE:1/j.	 {S}Histoire de la maladie : le 9 avril 2009, Madame XXX est trans	538433 538437 11161 202
+UM _ VITAMINE B 6 : 	MAGNESIUM _ VITAMINE B 6:2 cps/j	 _ TARDYFERON 80 mg : 1 cp/j _ LASILIX 40 mg : 1	544680 544687 11223 203
+ TARDYFERON 80 mg : 	TARDYFERON 80 mg:1 cp/j	 _ LASILIX 40 mg : 1 cp/j _ MODOPAR 250 mg : 1 gélule à 8	544710 544716 11223 204
+j _ LASILIX 40 mg : 	LASILIX 40 mg:1 cp/j	 _ MODOPAR 250 mg : 1 gélule à 8h, 1 gélule à 12h, 1 gélule 	544736 544742 11223 205
+ _ MODOPAR 250 mg : 	MODOPAR 250 mg:1 gélule à 8h, 1 gélule à 12h, 1 gélule à 16 h, 1 gélule à 20 h.	 	544763 544827 11223 206
+sortie : _ CLAMOXYL 	CLAMOXYL:2 g 4 fois par jour, _ MEDIALITICUM collyre 1 goutte par oeil par jour, _ EUPANTHOL 20 1 le soir,		564156 564255 11681 207
+rtie : _ CLAMOXYL 2 	CLAMOXYL 2:g 4 fois par jour, _ MEDIALITICUM collyre 1 goutte par oeil par jour, _ EUPANTHOL 20 1 le soir,		564158 564255 11681 208
+ie : _ CLAMOXYL 2 g 	CLAMOXYL 2 g:4 fois par jour, _ MEDIALITICUM collyre 1 goutte par oeil par jour, _ EUPANTHOL 20 1 le soir,		564160 564255 11681 209
+1 le soir, _ ATARAX 	ATARAX:25 si besoin,	 _ CRESTOR 5 mg 1 par jour. {S}Le patient reviendra réaliser	564266 564279 11681 210
+e soir, _ ATARAX 25 	ATARAX 25:si besoin,	 _ CRESTOR 5 mg 1 par jour. {S}Le patient reviendra réaliser	564269 564279 11681 211
+) _ Erythromycine : 	Erythromycine:250 mg x 6/j	 _ Inexium : 40 mg/j _ Perfalgan : 1 g x 3/j _ Spasfon	579351 579363 12031 212
+g x 6/j _ Inexium : 	Inexium:40 mg/j	 _ Perfalgan : 1 g x 3/j _ Spasfon : 1 amp x 3/j _ Topalgic si do	579377 579384 12031 213
+u service _ Inexium 	Inexium:40 mg IVL x 1/j	 _ Tazocilline 4 g x 2/j IVL sur 60 minutes (J5 le 28/05)	595991 596006 12373 214
+ervice _ Inexium 40 	Inexium 40:mg IVL x 1/j	 _ Tazocilline 4 g x 2/j IVL sur 60 minutes (J5 le 28/05)	595994 596006 12373 215
+ice _ Inexium 40 mg 	Inexium 40 mg:IVL x 1/j	 _ Tazocilline 4 g x 2/j IVL sur 60 minutes (J5 le 28/05)	595997 596006 12373 216
+x 1/j _ Tazocilline 	Tazocilline:4 g x 2/j IVL sur 60 minutes (J5 le 28/05)	 _ Levothyrox 175 µg x 1/j	596022 596064 12373 217
+1/j _ Tazocilline 4 	Tazocilline 4:g x 2/j IVL sur 60 minutes (J5 le 28/05)	 _ Levothyrox 175 µg x 1/j	596024 596064 12373 218
+j _ Tazocilline 4 g 	Tazocilline 4 g:x 2/j IVL sur 60 minutes (J5 le 28/05)	 _ Levothyrox 175 µg x 1/j	596026 596064 12373 219
+_ Levothyrox 175 µg 	Levothyrox 175 µg:x 1/j	 _ Cortancyl 10 mg le matin _ Calcidia 1 sachet x 2/j _ P	596086 596091 12373 220
+g x 1/j _ Cortancyl 	Cortancyl:10 mg le matin	 _ Calcidia 1 sachet x 2/j _ Previscan : en attente (int	596105 596119 12373 221
+ 1/j _ Cortancyl 10 	Cortancyl 10:mg le matin	 _ Calcidia 1 sachet x 2/j _ Previscan : en attente (int	596108 596119 12373 222
+j _ Cortancyl 10 mg 	Cortancyl 10 mg:le matin	 _ Calcidia 1 sachet x 2/j _ Previscan : en attente (int	596111 596119 12373 223
+le matin _ Calcidia 	Calcidia:1 sachet x 2/j	 _ Previscan : en attente (interrompu le 26/05 sur INR > 	596132 596146 12373 224
+ matin _ Calcidia 1 	Calcidia 1:sachet x 2/j	 _ Previscan : en attente (interrompu le 26/05 sur INR > 	596134 596146 12373 225
+x 2/j _ Previscan : 	Previscan:en attente (interrompu le 26/05 sur INR > 4)	 {S}Transfusion : oui Infe	596162 596206 12373 226
+ie {S}Lasilix 500 : 	Lasilix 500:1 matin et midi	 {S}Amlor 10 : 1 le matin {S}Cordarone : 1 le matin {	609946 609961 12613 227
+ midi {S}Amlor 10 : 	Amlor 10:1 le matin	 {S}Cordarone : 1 le matin {S}Lantus : 14 unités le soir {S}C	609977 609987 12614 228
+atin {S}Cordarone : 	Cordarone:1 le matin	 {S}Lantus : 14 unités le soir {S}Calcidia : 1 x 2 par jour 	610004 610014 12615 229
+ soir {S}Calcidia : 	Calcidia:1 x 2 par jour	 {S}Dedrogyl : 3 gouttes le midi {S}Inexium 20 : 1 le soi	610061 610075 12617 230
+idi {S}Inexium 20 : 	Inexium 20:1 le soir	 {S}Di-Antalvic : 2 matin et soir {S}Previscan : ¾ le soir à	610126 610135 12619 231
+NR {S}Cortancyl 5 : 	Cortancyl 5:2 le matin	 {S}Levothyrox 175 : 1 le matin {S}En restant à votre disp	610245 610255 12622 232
+{S}Levothyrox 175 : 	Levothyrox 175:1 le matin	 {S}En restant à votre disposition pour plus de renseig	610277 610287 12623 233
+S}CONTRAMAL 50 mg : 	CONTRAMAL 50 mg:4 x par jour si douleurs,	 {S}TEMESTA 1 mg : 1 par jour à 20h00, 	648155 648180 13356 234
+, {S}TEMESTA 1 mg : 	TEMESTA 1 mg:1 par jour à 20h00,	 {S}INNOHEP 3 500 unités : 1 injection par jour 	648200 648219 13357 235
+OHEP 3 500 unités : 	INNOHEP 3 500 unités:1 injection par jour pendant encore 21 jours,	 {S}Soins loca	648247 648292 13358 236
+uleurs, {S}FORLAX : 	FORLAX:1 sachet X 3 par jour,	 {S}Traitement hyper énergétique par FORTIMEL énerg	652642 652664 13441 237
+ {S}GLIVEC 400 mg : 	GLIVEC 400 mg:1 par jour.	 {S}Monsieur XXX XXX sera revu en consultation avec le 	652804 652815 13444 238
+duphalac insulard : 	duphalac insulard:16 U _0_6U	 {S}Constantes {S}1/2 {S}DossierMed 877508505 000804	656734 656744 13508 239
+4 {S}BISOPROLOL 5 : 	BISOPROLOL 5:1_0_0	 {S}FORTZAAR : 1_0_0 {S}KARDEGIC 160 : 0_1_0 {S}PERMIXON 160 :	665529 665534 13738 240
+0 {S}KARDEGIC 160 : 	KARDEGIC 160:0_1_0	 {S}PERMIXON 160 : 1_0_1 {S}LACTULOSE si constipation {S}MECIR	665575 665580 13740 241
+D {S}Vitamine B12 : 	B12:339 pg/ml	 Ø normale {S}Folates : 9.5 ng/ml Ø normale {S}PSA : 2 ng/ml Ø norm	668297 668306 13822 242
+S}CALCIPARINE 0.2 : 	CALCIPARINE 0.2:1_0_1	 {S}KARDEGIC 160 : 0_1_0 {S}PERMIXON 160 : 1_0_1 {S}LACTULO	669486 669491 13837 243
+1 {S}KARDEGIC 160 : 	KARDEGIC 160:0_1_0	 {S}PERMIXON 160 : 1_0_1 {S}LACTULOSE un sachet le matin {S}TH	669511 669516 13838 244
+S}THEOSTAT LP 100 : 	THEOSTAT LP 100:1_0_0	 {S}DEDROGYL : 3 gouttes par jour {S}MECIR LP 0.4 : 0_0_1 {	669597 669602 13841 245
+ 0_0_1 {S}AMLOR 5 : 	AMLOR 5:1_0_0	 {S}EXAMENS ET CONSULTATIONS A PREVOIR {S}Le patient est transféré 	669676 669681 13844 246
+ILE {S}AMLOR 5 mg : 	AMLOR 5 mg:1 le matin	 {S}DEDROGYL : 3 gouttes {S}DUPHALAC 10 mg : 1 le matin {S}	679352 679362 14116 247
+{S}DUPHALAC 10 mg : 	DUPHALAC 10 mg:1 le matin	 {S}FORLAX 10 mg : 2 le matin {S}KARDEGIC 160 mg : 1 le	679409 679419 14118 248
+n {S}FORLAX 10 mg : 	FORLAX 10 mg:2 le matin	 {S}KARDEGIC 160 mg : 1 le soir {S}LYRICA 25 : 1 le soir 	679439 679449 14119 249
+S}KARDEGIC 160 mg : 	KARDEGIC 160 mg:1 le soir	 {S}LYRICA 25 : 1 le soir {S}MECIR 0.4 : 1 le soir {S}P	679472 679481 14120 250
+soir {S}LYRICA 25 : 	LYRICA 25:1 le soir	 {S}MECIR 0.4 : 1 le soir {S}PERMIXON 160 : 1 matin – 1 soir 	679498 679507 14121 251
+S}THEOSTAT 100 mg : 	THEOSTAT 100 mg:1 le matin	 {S}DAFALGAN 1 g matin, midi et soir {S}HISTOIRE DU DI	679592 679602 14124 252
+ {S}52 {S}Glucose : 	Glucose:4.6	 {S}Pré albumine : {S}ASAT (<35 UI) {S}ALAT (<50 UI) {S}Phases alcali	682876 682879 14179 253
+T0 de VANCOMYCINE : 	VANCOMYCINE:31.3	 {S}T0 d’OFLOCET : en cours {S}EXAMENS PARACLINIQUES {S}ECG : ry	683233 683237 14190 254
+3 {S}T0 d’OFLOCET : 	OFLOCET:en cours	 {S}EXAMENS PARACLINIQUES {S}ECG : rythme non sinusal – fréquenc	683257 683265 14191 255
+TIE {S}AMLOR 5 mg : 	AMLOR 5 mg:1 le matin	 {S}DEDROGYL : 3 gouttes {S}DUPHALAC 10 mg : 1 le matin {S}	683984 683994 14198 256
+{S}DUPHALAC 10 mg : 	DUPHALAC 10 mg:1 le matin	 {S}KARDEGIC 160 mg : 1 le soir {S}LYRICA 25 : 1 le soi	684041 684051 14200 257
+S}KARDEGIC 160 mg : 	KARDEGIC 160 mg:1 le soir	 {S}LYRICA 25 : 1 le soir {S}MECIR 0.4 : 1 le soir {S}P	684074 684083 14201 258
+soir {S}LYRICA 25 : 	LYRICA 25:1 le soir	 {S}MECIR 0.4 : 1 le soir {S}PERMIXON 160 : 1 matin – 1 soir 	684100 684109 14202 259
+S}THEOSTAT 100 mg : 	THEOSTAT 100 mg:1 le matin	 {S}DAFALGAN 1 g matin, midi et soir {S}ROCEPHINE : 2g	684194 684204 14205 260
+soir {S}ROCEPHINE : 	ROCEPHINE:2g le matin	 {S}VANCOMYCINE : 2 g sur 24h {S}OFLOCET suspendu pour le m	684258 684269 14207 261
+in {S}VANCOMYCINE : 	VANCOMYCINE:2 g sur 24h	 {S}OFLOCET suspendu pour le moment {S}SPECIAFOLDINE 5 mg	684288 684299 14208 262
+PECIAFOLDINE 5 mg : 	SPECIAFOLDINE 5 mg:1 matin – 1 soir	 {S}LOVENOX 4000 unités : 1 injection par jou	684361 684377 14210 263
+VENOX 4000 unités : 	LOVENOX 4000 unités:1 injection par jour.	 {S}En vous remerciant de votre confian	684404 684425 14211 264
+te : Ø CARDENSIEL 2,	CARDENSIEL 2:5, un comprimé le matin	 Ø INIPOMP 20 mg, un comprimé le soir Ø TARD	696836 696859 14426 265
+: Ø CARDENSIEL 2,5, 	CARDENSIEL 2,5:un comprimé le matin	 Ø INIPOMP 20 mg, un comprimé le soir Ø TARDY	696839 696859 14426 266
+in Ø INIPOMP 20 mg, 	INIPOMP 20 mg:un comprimé le soir	 Ø TARDYFERON 80 mg, un comprimé x 2 par jour Ø	696878 696897 14426 267
+Ø TARDYFERON 80 mg, 	TARDYFERON 80 mg:un comprimé x 2 par jour	 Ø SERESTA 10 mg, un comprimé le soir a	696919 696943 14426 268
+ur Ø SERESTA 10 mg, 	SERESTA 10 mg:un comprimé le soir au coucher	 Ø DOLIPRANE, 1 g x 3 par jour si do	696962 696992 14426 269
+oucher Ø DOLIPRANE, 	DOLIPRANE:1 g x 3 par jour si douleurs	 Ø Compléments hyperprotéinés Ø NEOMERCAZO	697007 697035 14426 270
+ir Ø ATHYMIL 30 mg, 	ATHYMIL 30 mg:un comprimé le soir	 Ø LASILIX, 60 mg le matin, 40 mg le midi Ø ALD	697114 697133 14426 271
+ le soir Ø LASILIX, 	LASILIX:60 mg le matin, 40 mg le midi	 Ø ALDACTONE, 50 mg le matin Ø HEMIGOXINE 0	697146 697175 14426 272
+IX, 60 mg le matin, 	LASILIX, 60 mg le matin:40 mg le midi	 Ø ALDACTONE, 50 mg le matin Ø HEMIGOXINE 0	697162 697175 14426 273
+e midi Ø ALDACTONE, 	ALDACTONE:50 mg le matin	 Ø HEMIGOXINE 0,125 mg, un comprimé le matin Ø DIFFU K, 	697190 697204 14426 274
+t soir Ø PREVISCAN, 	PREVISCAN:¼ de comprimé à reprendre le 22 avril, un jour sur deux	 Ø Aérosols de 	697303 697358 14426 275
+ie {S}Cortancyl 5 : 	Cortancyl 5:1 le matin	 {S}Rovalcyte 450 : 3 jours sur 7 {S}Detensiel 5 : 1 matin	726635 726645 14946 276
+ 7 {S}Detensiel 5 : 	Detensiel 5:1 matin et soir	 {S}Calcidia : 1 à 15 heures {S}PériKabiven de 900 Kc	726698 726713 14948 277
+ soir {S}Calcidia : 	Calcidia:1 à 15 heures	 {S}PériKabiven de 900 Kcal soit 1440 ml par jour avec Cer	726729 726742 14949 278
+alciparine 0.2 ml : 	Calciparine 0.2 ml:2 par jour.	 {S}HISTOIRE DE LA MALADIE {S}Monsieur XXX est adr	778898 778909 15923 279
+ir {S}Amlor 10 mg : 	Amlor 10 mg:1 matin et soir	 {S}Fortimel : 2 par jour {S}Inexium 40 mg : 1 le soi	783849 783864 15979 280
+ {S}Inexium 40 mg : 	Inexium 40 mg:1 le soir	 {S}Eau gélifiée : 3 par jour {S}Vitamine B1_B6 : 3 par j	783911 783920 15981 281
+alciparine 0.2 ml : 	Calciparine 0.2 ml:2 par jour	 {S}Contramal 50 mg : 3 par jour {S}Levemir : 10 un	784049 784059 15985 282
+S}Contramal 50 mg : 	Contramal 50 mg:3 par jour	 {S}Levemir : 10 unités matin et soir {S}Transipeg : 2	784082 784092 15986 283
+{S}Sevredol 10 mg : 	Sevredol 10 mg:1 avant les pansements	 {S}En restant à votre disposition pour plu	784258 784280 15991 284
+tin, PLAVIX 75 mg : 	PLAVIX 75 mg:1 le matin	, DETENSIEL 10 mg : 1 le matin, ELIZOR 20 mg : 1 le soir,	799233 799243 16266 285
+, DETENSIEL 10 mg : 	DETENSIEL 10 mg:1 le matin	, ELIZOR 20 mg : 1 le soir, CHONDROSULF 400 mg : 1x3/j	799263 799273 16266 286
+tin, ELIZOR 20 mg : 	ELIZOR 20 mg:1 le soir	, CHONDROSULF 400 mg : 1x3/j, BRONCHODUAL 100 µg : 1x3/j, 	799290 799299 16266 287
+, SULFARLEM 25 mg : 	SULFARLEM 25 mg:1x3/j	, DOLIPRANE 500 mg : 1 à 2 cp si douleur, EQUANYL 400 mg : 	799436 799441 16266 288
+ DOLIPRANE 500 mg : 	DOLIPRANE 500 mg:1 à 2 cp si douleur	, EQUANYL 400 mg : ½ ½ 1. * Mode de vie : _ 	799462 799481 16266 289
+ortie : {S}FORLAX : 	FORLAX:1 sachet matin et midi	 {S}KARDEGIC 75 : 1 cp le matin {S}DETENSIEL 10 mg 	806660 806682 16319 290
+di {S}KARDEGIC 75 : 	KARDEGIC 75:1 cp le matin	 {S}DETENSIEL 10 mg : 1 cp le matin {S}ELIZOR 10 mg : 2	806701 806714 16320 291
+S}DETENSIEL 10 mg : 	DETENSIEL 10 mg:1 cp le matin	 {S}ELIZOR 10 mg : 2 cp le soir {S}CHONDROSULF 400 	806737 806750 16321 292
+n {S}ELIZOR 10 mg : 	ELIZOR 10 mg:2 cp le soir	 {S}CHONDROSULF 400 mg : 1 x3/j {S}BRONCHODUAL : 1 x3/j	806770 806782 16322 293
+HONDROSULF 400 mg : 	CHONDROSULF 400 mg:1 x3/j	 {S}BRONCHODUAL : 1 x3/j {S}SERETIDE 250 : 1 bouffée ma	806808 806814 16323 294
+S}SULFARLEM 25 mg : 	SULFARLEM 25 mg:1 x3/j	 {S}DOLIPRANE 500 mg : 1 à 2 cp en cas de douleur {S}EQUAN	806905 806911 16326 295
+}DOLIPRANE 500 mg : 	DOLIPRANE 500 mg:1 à 2 cp en cas de douleur	 {S}EQUANYL 400 mg : ½ matin et midi 	806935 806961 16327 296
+{S}EQUANYL 400 mg : 	EQUANYL 400 mg:½ matin et midi et 1 le soir	 {S}IMOVANE 7,5 mg : 1 cp au coucher 	806983 807011 16328 297
+{S}IMOVANE 7,5 mg : 	IMOVANE 7,5 mg:1 cp au coucher	 {S}TOPALGIC 50 mg : en cas de douleur {S}COVERSYL	807033 807048 16329 298
+{S}TOPALGIC 50 mg : 	TOPALGIC 50 mg:en cas de douleur	 {S}COVERSYL 2 mg : 1 cp le matin {S}CONTRAMAL 5	807070 807087 16330 299
+ {S}COVERSYL 2 mg : 	COVERSYL 2 mg:1 cp le matin	 {S}CONTRAMAL 50 mg : 2 x3/j {S}Le dossier de Monsieu	807108 807121 16331 300
+S}CONTRAMAL 50 mg : 	CONTRAMAL 50 mg:2 x3/j	 {S}Le dossier de Monsieur XXX a été présenté au staff de 	807144 807150 16332 301
+mg 2.0.0 xatral 10: 	aldactone 75mg 2.0.0 xatral 10:1_0_0 noroxine 400 1_0_0 daflon 500 1_0_1	 {S}Appa	812680 812723 16434 302
+eux : _ Tazocilline 	Tazocilline:4 g / 8 h (J7/J15)	 _ Topalgic 50 mg avant soins maxi 4/j * Per os : 	823269 823287 16706 303
+x : _ Tazocilline 4 	Tazocilline 4:g / 8 h (J7/J15)	 _ Topalgic 50 mg avant soins maxi 4/j * Per os : 	823271 823287 16706 304
+: _ Tazocilline 4 g 	Tazocilline 4 g:/ 8 h (J7/J15)	 _ Topalgic 50 mg avant soins maxi 4/j * Per os : 	823273 823287 16706 305
+: ØALDACTONE 75 mg, 	ALDACTONE 75 mg:deux comprimés par jour	 Ø LASILIX RETARD 60 mg, un comprimé le m	835366 835389 16935 306
+SILIX RETARD 60 mg, 	LASILIX RETARD 60 mg:un comprimé le matin	 Ø DEDROGYL, 3 gouttes par jour Ø AVLOC	835415 835435 16935 307
+es Ø INEXIUM 20 mg, 	INEXIUM 20 mg:un comprimé le soir	 Ø DUPHALAC, un sachet le matin Ø VITAMINES B1_	835533 835552 16935 308
+le soir Ø DUPHALAC, 	DUPHALAC:un sachet le matin	 Ø VITAMINES B1_B6, deux comprimés trois fois par jou	835566 835584 16935 309
+ : {S}EQUANIL 400 : 	EQUANIL 400:3/j	 {S}EXELON 3 mg : 1 matin et soir {S}KARDEGIC 75 : 1 le midi {S}D	838614 838617 17014 310
+/j {S}EXELON 3 mg : 	EXELON 3 mg:1 matin et soir	 {S}KARDEGIC 75 : 1 le midi {S}DEROXAT 20 : 1 cp/j {S	838636 838651 17015 311
+ir {S}KARDEGIC 75 : 	KARDEGIC 75:1 le midi	 {S}DEROXAT 20 : 1 cp/j {S}Allergie : Non connue. {S}Mode d	838670 838679 17016 312
+idi {S}DEROXAT 20 : 	DEROXAT 20:1 cp/j	 {S}Allergie : Non connue. {S}Mode de vie : Autonomie diminuée,	838697 838703 17017 313
+ur Ø SERESTA 10 mg, 	SERESTA 10 mg:un le midi	 Ø EXELON 3 mg, deux par jour Ø DEROXAT 20 mg, un par jo	852890 852900 17316 314
+midi Ø EXELON 3 mg, 	EXELON 3 mg:deux par jour	 Ø DEROXAT 20 mg, un par jour Ø EQUANIL 400 mg, trois p	852917 852930 17316 315
+ur Ø DEROXAT 20 mg, 	DEROXAT 20 mg:un par jour	 Ø EQUANIL 400 mg, trois par jour Ø ATARAX 25 mg, un le	852949 852960 17316 316
+r Ø EQUANIL 400 mg, 	EQUANIL 400 mg:trois par jour	 Ø ATARAX 25 mg, un le soir Ø Application de BETNEV	852980 852994 17316 317
+our Ø ATARAX 25 mg, 	ATARAX 25 mg:un le soir	 Ø Application de BETNEVAL un jour sur deux sur des lésio	853012 853022 17316 318
+DAL 5 mg / goutte : 	TIAPRIDAL 5 mg / goutte:21 gouttes le matin, 5 gouttes le midi, 8 gouttes le soir,		860520 860578 17491 319
+r, {S}EQUANIL 400 : 	EQUANIL 400:3 fois / jour,	 {S}XYZALL, 1 cp le soir. {S}Nous vous prions de croir	860597 860611 17492 320
+CILE : {S}CRESTOR : 	CRESTOR:1 cp/ jour	 {S}HISTOIRE DE LA MALADIE : {S}Patient suivi dans le service 	870583 870593 17713 321
+ {S}INEXIUM 20 mg : 	INEXIUM 20 mg:1 comprimé par jour le soir	 {S}CRESTOR 10 mg : 1 comprimé par jour	890257 890284 18021 322
+ {S}CRESTOR 10 mg : 	CRESTOR 10 mg:1 comprimé par jour le soir	 {S}COVERSYL 5 mg : 1 comprimé par jour	890305 890332 18022 323
+ {S}COVERSYL 5 mg : 	COVERSYL 5 mg:1 comprimé par jour le matin	 {S}IMOVANE 7,5 mg : 1 comprimé par jo	890353 890381 18023 324
+{S}IMOVANE 7,5 mg : 	IMOVANE 7,5 mg:1 comprimé par jour le soir	 {S}LASILIX faible 20 mg : 1 comprimé 	890403 890430 18024 325
+ILIX faible 20 mg : 	LASILIX faible 20 mg:1 comprimé par jour le matin	 {S}BRISTOPEN 1 g IV le 4 août 	890458 890486 18025 326
+S}KARDEGIC 160 mg : 	KARDEGIC 160 mg:1 sachet par jour le midi	 {S}LOVENOX 0,4 ml : 1 injection par jo	890547 890572 18027 327
+{S}LOVENOX 0,4 ml : 	LOVENOX 0,4 ml:1 injection par jour le soir, dernière injection le 3 août 2009 à 19 heures		890594 890669 18028 328
+neux : _ Topalgic : 	Topalgic:1 amp si besoin x 2/j maximum _ Acupan 2 amp 24 h/24	 _ Augmentin 1 g/8 	904890 904943 18347 329
+neux : _ Topalgic : 	Topalgic:1 amp si besoin x 2/j maximum _ Acupan 2 amp 24 h/24	 _ Augmentin 1 g/8 	913102 913155 18549 330
+ {S}METOPROLOL 50 : 	METOPROLOL 50:1/jour	 {S}RAMIPRIL 2.5 : 1/jour {S}LANTUS {S}NOVORAPID : 3 fois pa	917458 917464 18636 331
+r {S}RAMIPRIL 2.5 : 	RAMIPRIL 2.5:1/jour	 {S}LANTUS {S}NOVORAPID : 3 fois par jour {S}CRESTOR 5 mg : 1	917484 917490 18637 332
+r {S}CRESTOR 5 mg : 	CRESTOR 5 mg:1/jour	 {S}HISTOIRE DE LA MALADIE {S}Diabète de type 1 découvert en 	917553 917559 18640 333
+3 {S}Vitamine B12 : 	B12:613 normal	 {S}Folates : 4.5 normal {S}Bilan urinaire {S}ECBU du 12/01/09 {S}	920402 920412 18711 334
+I {S}CRESTOR 5 mg : 	CRESTOR 5 mg:1 le soir	 {S}XATRAL LP 10 : 1 le soir {S}DOLIPRANE si douleur {S}PL	922784 922793 18758 335
+leur {S}PLAVIX 75 : 	PLAVIX 75:1 cp par jour	 {S}KEPPRA 500 : 2/jour {S}EXAMENS ET CONSULTATIONS A PRE	922864 922877 18761 336
+our {S}KEPPRA 500 : 	KEPPRA 500:2/jour	 {S}EXAMENS ET CONSULTATIONS A PREVOIR ð Consultation urologiqu	922895 922901 18762 337
+valider inipomp40 : 	inipomp40:1/j	 {S}Gwladys Randazzo (Interne) {S}07/04/2009 18:38 {S}A valider fur	929898 929901 18944 338
+der furosémide 40 : 	furosémide 40:1/j	 {S}Gwladys Randazzo (Interne) {S}07/04/2009 18:38 {S}A valider	929986 929989 18947 339
+3/ jour {S}PLAVIX : 	PLAVIX:1/ jour	 {S}EZETROL 10 mg : 1/ jour {S}GLUCOVANS 500 mg : 1 matin et soir 	958864 958871 19595 340
+ {S}EZETROL 10 mg : 	EZETROL 10 mg:1/ jour	 {S}GLUCOVANS 500 mg : 1 matin et soir {S}INEXIUM 20 mg/ jo	958892 958899 19596 341
+}GLUCOVANS 500 mg : 	GLUCOVANS 500 mg:1 matin et soir	 {S}INEXIUM 20 mg/ jour {S}ZOLPIDIEM : 1 le soir	958923 958938 19597 342
+{S}RAMIPRIL 10 mg : 	RAMIPRIL 10 mg:1/ jour	 {S}COKENZEN 16 mg : 1/ jour {S}FLUDEX LP 1.5 mg : 1/ jour	959036 959043 19601 343
+{S}COKENZEN 16 mg : 	COKENZEN 16 mg:1/ jour	 {S}FLUDEX LP 1.5 mg : 1/ jour {S}LASILIX 500 mg : ¼ / jou	959065 959072 19602 344
+{S}LASILIX 500 mg : 	LASILIX 500 mg:¼ / jour	 {S}HISTOIRE DE LA MALADIE : {S}Patient suivi en cardiolo	959125 959133 19604 345
+ {S}EZETROL 10 mg : 	EZETROL 10 mg:1 comprimé par jour le soir	 {S}CRESTOR 10 mg : 1 comprimé par jour	980720 980747 19909 346
+ {S}CRESTOR 10 mg : 	CRESTOR 10 mg:1 comprimé par jour le soir	 {S}GLUCOPHAGE 1000 mg : 1 comprimé par	980768 980795 19910 347
+LUCOPHAGE 1000 mg : 	GLUCOPHAGE 1000 mg:1 comprimé par jour le soir	 {S}INEXIUM 20 mg : 1 comprimé par	980821 980848 19911 348
+ {S}INEXIUM 20 mg : 	INEXIUM 20 mg:1 comprimé par jour le soir	 {S}CARDENSIEL 2,5 mg : 1 comprimé par 	980869 980896 19912 349
+CARDENSIEL 2,5 mg : 	CARDENSIEL 2,5 mg:1 comprimé par jour le matin	 {S}LASILIX 40 mg : 1 comprimé le 	980921 980949 19913 350
+ {S}LASILIX 40 mg : 	LASILIX 40 mg:1 comprimé le matin, 1/2 comprimé le midi	 {S}CORDARONE 200 mg : 1 	980970 981011 19914 351
+e {S}LERCAN 10 mg : 	LERCAN 10 mg:1 comprimé par jour le midi	 {S}ATACAND 8 mg : 1 comprimé par jour l	981145 981172 19916 352
+i {S}ATACAND 8 mg : 	ATACAND 8 mg:1 comprimé par jour le matin	 {S}ALPRAZOLAM 0,5 mg : 1 comprimé le m	981192 981220 19917 353
+ALPRAZOLAM 0,5 mg : 	ALPRAZOLAM 0,5 mg:1 comprimé le matin, 1 comprimé le soir	 {S}LANTUS 34 Unités pa	981245 981284 19918 354
+S}KARDEGIC 160 mg : 	KARDEGIC 160 mg:1 sachet par jour le midi	 {S}Le patient est attendu dans le serv	981345 981370 19920 355
+ {S}APROVEL 75 mg : 	APROVEL 75 mg:1_0_0.	 {S}CARDENSIEL 2,5 mg : 1_0_0. {S}KARDEGIC 75 mg : 0_0_1. {S	995640 995646 20178 356
+CARDENSIEL 2,5 mg : 	CARDENSIEL 2,5 mg:1_0_0.	 {S}KARDEGIC 75 mg : 0_0_1. {S}GAVISCON : 1 sachet par j	995671 995677 20179 357
+{S}KARDEGIC 75 mg : 	KARDEGIC 75 mg:0_0_1.	 {S}GAVISCON : 1 sachet par jour. {S}TARDYFERON : 1_1_0. {S	995699 995705 20180 358
+ur. {S}TARDYFERON : 	TARDYFERON:1_1_0.	 {S}INEXIUM 40 mg : 0_0_1. {S}INNOHEP 0,2 ml : 0_0_1. {S}RIVOTR	995757 995763 20182 359
+ {S}INEXIUM 40 mg : 	INEXIUM 40 mg:0_0_1.	 {S}INNOHEP 0,2 ml : 0_0_1. {S}RIVOTRIL : 15 gouttes par jou	995784 995790 20183 360
+{S}INNOHEP 0,2 ml : 	INNOHEP 0,2 ml:0_0_1.	 {S}RIVOTRIL : 15 gouttes par jour : 5_0_10. {S}LYRICA 25 m	995812 995818 20184 361
+. {S}LYRICA 25 mg : 	LYRICA 25 mg:1_0_1.	 {S}DOLIPRANE 1 g x 3 si douleur. {S}Nous restons à la dispos	995883 995889 20186 362
+lilitres par jour : 	Lovenox 0,4 millilitres par jour:Oui	 {S}Synthèse : patient de 52 ans {S}Motif d'	999280 999283 20266 363
+* SKENAN LP 30 mg : 	SKENAN LP 30 mg:1 0 1	 {S}Je vous prie de croire, mon cher confrère, à l’assuranc	1000640 1000645 20277 364
+ VELPEAU _ RIFADINE 	RIFADINE:300 mg 2 x 2 / jour 45 jours	 _ OFLOCET 200mg 1 x 3 / jour 45 jours {S}D	1020917 1020945 20844 365
+PEAU _ RIFADINE 300 	RIFADINE 300:mg 2 x 2 / jour 45 jours	 _ OFLOCET 200mg 1 x 3 / jour 45 jours {S}D	1020921 1020945 20844 366
+U _ RIFADINE 300 mg 	RIFADINE 300 mg:2 x 2 / jour 45 jours	 _ OFLOCET 200mg 1 x 3 / jour 45 jours {S}D	1020924 1020945 20844 367
+ar jour {S}FORLAX : 	FORLAX:2 sachets/jour	 {S}IMOVANE : 1/jour {S}KARDEGIC 75 : 1/jour {S}SPECIAFOLDI	1028359 1028373 21015 368
+s/jour {S}IMOVANE : 	IMOVANE:1/jour	 {S}KARDEGIC 75 : 1/jour {S}SPECIAFOLDINE 5 : 3/jour {S}TAGAMET 20	1028388 1028394 21016 369
+ur {S}KARDEGIC 75 : 	KARDEGIC 75:1/jour	 {S}SPECIAFOLDINE 5 : 3/jour {S}TAGAMET 200 : ½ par jour {S}TA	1028413 1028419 21017 370
+S}SPECIAFOLDINE 5 : 	SPECIAFOLDINE 5:3/jour	 {S}TAGAMET 200 : ½ par jour {S}TARDYFERON 80 : 2/jour {S}	1028442 1028448 21018 371
+ {S}TARDYFERON 80 : 	TARDYFERON 80:2/jour	 {S}DISCOTRINE 10 mg /24 heures : 1 par jour {S}LOVENOX 4000	1028498 1028504 21020 372
+ 10 mg /24 heures : 	DISCOTRINE 10 mg /24 heures:1 par jour	 {S}LOVENOX 4000 UI : 1/jour {S}EXELON 9,5	1028539 1028549 21021 373
+S}LOVENOX 4000 UI : 	LOVENOX 4000 UI:1/jour	 {S}EXELON 9,5 : 1 patch par jour {S}Nous vous prions de c	1028572 1028578 21022 374
+our {S}EXELON 9,5 : 	EXELON 9,5:1 patch par jour	 {S}Nous vous prions de croire, Cher Confrère, à l’as	1028596 1028612 21023 375
+lilitres par jour : 	Lovenox 0,4 millilitres par jour:Oui	 {S}Rééducation : appui interdit pour 1 mois	1031174 1031177 21092 376
+ 0 1 *LOVENOX 0,4 : 	LOVENOX 0,4:19h	 {S}Je vous prie de croire, mon cher confrère, à l’assurance de m	1031920 1031923 21099 377
+ : {S}KARDEGIC 75 : 	KARDEGIC 75:1 sachet le midi	 {S}INEXIUM 20 : 1 cp le soir {S}TARDYFERON 80 : 1 c	1038432 1038448 21197 378
+idi {S}INEXIUM 20 : 	INEXIUM 20:1 cp le soir	 {S}TARDYFERON 80 : 1 cp matin et soir {S}IMOVANE 7,5 : 1	1038466 1038478 21198 379
+ {S}TARDYFERON 80 : 	TARDYFERON 80:1 cp matin et soir	 {S}IMOVANE 7,5 : 1 cp le soir au coucher {S}CON	1038499 1038517 21199 380
+ir {S}IMOVANE 7,5 : 	IMOVANE 7,5:1 cp le soir au coucher	 {S}CONTRAMAL 50 mg : 1 à 2 gélules x 4 par j	1038536 1038559 21200 381
+S}CONTRAMAL 50 mg : 	CONTRAMAL 50 mg:1 à 2 gélules x 4 par jour si douleur	 {S}FORTIMEL extra-chocolat	1038582 1038619 21201 382
+ mg par 24 heures : 	EXELON 9,5 mg par 24 heures:dispositif trans-dermique	 {S}Nous vous prions de cro	1038742 1038767 21204 383
+ar jour, GAVISCON : 	ALLOPURINOL 100 mg par jour, PARIET 10 mg par jour, GAVISCON:1 sachet x 3 par jour.		1050408 1050430 21410 384
+ar jour, GAVISCON : 	PARIET 10 mg par jour, GAVISCON:1 sachet x 3 par jour.	 {S}Il a présenté un syndr	1050408 1050430 21410 385
+ LEVOTHYROX 125 µg, 	LEVOTHYROX 125 µg:un comprimé par jour	 Ø DAFALGAN 500 mg, si douleurs Ø TAREG 80	1070151 1070171 21702 386
+ Ø DAFALGAN 500 mg, 	DAFALGAN 500 mg:si douleurs	 Ø TAREG 80 mg, un comprimé le matin Ø UVEDOSE 100 00	1070192 1070203 21702 387
+ Ø DISCOTRINE 5 mg, 	DISCOTRINE 5 mg:un dispositif trans-dermique la nuit	 Ø PLACEBO, un comprimé le s	1070371 1070407 21702 388
+. {S}VITAMINE B12 : 	B12:877 pg/ml.	 {S}Bilan ferrique : fer sérique 28,5 µmol/l, capacité de fixation	1091439 1091449 22214 389
+{S}KARDEGIC 75 mg : 	KARDEGIC 75 mg:1 sachet par jour	 {S}PAROXETINE 20 mg : 1 fois par jour {S}EXELON	1116816 1116833 22668 390
+}PAROXETINE 20 mg : 	PAROXETINE 20 mg:1 fois par jour	 {S}EXELON 4,5 mg : 1 patch par jour, à augmente	1116857 1116872 22669 391
+ {S}EXELON 4,5 mg : 	EXELON 4,5 mg:1 patch par jour, à augmenter à 9,5 mg dans 2 semaines.	 {S}DAFALGA	1116893 1116948 22670 392
+RIMEBUTINE 200 mg : 	TRIMEBUTINE 200 mg:1 cp 3 fois par jour	 {S}PIPRAM 400 mg : ½ cp tous les 2 jours	1116997 1117017 22672 393
+ {S}PIPRAM 400 mg : 	PIPRAM 400 mg:½ cp tous les 2 jours	 {S}LERCAN 10 mg : 2 cp par jour {S}TEGRETOL 	1117038 1117059 22673 394
+s {S}LERCAN 10 mg : 	LERCAN 10 mg:2 cp par jour	 {S}TEGRETOL 200 mg : 1 cp 2 fois par jour {S}Une kiné	1117079 1117092 22674 395
+S}TEGRETOL 200 mg : 	TEGRETOL 200 mg:1 cp 2 fois par jour	 {S}Une kinésithérapie d'entretien à la marc	1117115 1117135 22675 396
+r jour) _ Cordarone 	Cordarone:(1 par jour)	 _ Trimebutine _ Tiorfan _ Nifuroxazide {S}Mode de vie : {	1123949 1123961 22820 397
+jour) _ Trimebutine 	Trimebutine:_ Tiorfan	 _ Nifuroxazide {S}Mode de vie : {S}Vit à XXX avec son mari	1123978 1123987 22820 398
+CARDENSIEL 2,5 mg : 	CARDENSIEL 2,5 mg:1 cp le matin et 1 cp le soir	 {S}LERCAN 10 mg : 1 cp/jour le m	1152883 1152912 23418 399
+r {S}LERCAN 10 mg : 	LERCAN 10 mg:1 cp/jour le matin	 {S}TAHOR 10 mg : 1 cp/jour le soir {S}IKOREL 10 	1152932 1152950 23419 400
+in {S}TAHOR 10 mg : 	TAHOR 10 mg:1 cp/jour le soir	 {S}IKOREL 10 mg : 1 cp le matin – 1 cp le soir {S}	1152969 1152986 23420 401
+r {S}IKOREL 10 mg : 	IKOREL 10 mg:1 cp le matin – 1 cp le soir	 {S}FONZYLANE 150 mg : 1 cp matin – 1 c	1153006 1153034 23421 402
+}FONZYLANE 150 mg : 	FONZYLANE 150 mg:1 cp matin – 1 cp le soir	 {S}INEXIUM 20 mg : 1 cp/jour le soir 	1153058 1153083 23422 403
+ {S}INEXIUM 20 mg : 	INEXIUM 20 mg:1 cp/jour le soir	 {S}LASILIX 40 mg : 1 cp/jour le matin {S}COVERSY	1153104 1153121 23423 404
+ {S}LASILIX 40 mg : 	LASILIX 40 mg:1 cp/jour le matin	 {S}COVERSYL 6 mg/jour le matin {S}LANTUS : 38 U	1153142 1153160 23424 405
+{S}OFLOCET 200 mg : 	OFLOCET 200 mg:1 cp le matin – 1 cp le soir	 {S}KARDEGIC 160 mg : 1 sachet/jour l	1153290 1153318 23428 406
+S}KARDEGIC 160 mg : 	KARDEGIC 160 mg:1 sachet/jour le midi	 {S}LOVENOX 0,4 ml : 1 injection/jour le so	1153341 1153362 23429 407
+{S}LOVENOX 0,4 ml : 	LOVENOX 0,4 ml:1 injection/jour le soir	 {S}Bien Cordialement. {S}Docteur D. RUSI	1153384 1153408 23430 408
+ {S}COVERSYL 4 mg : 	COVERSYL 4 mg:1/jour	 {S}METOPROLOL : ½ x 2/jour {S}TAHOR 10 mg : 1 le soir {S}JO	1155457 1155463 23494 409
+our {S}METOPROLOL : 	METOPROLOL:½ x 2/jour	 {S}TAHOR 10 mg : 1 le soir {S}JOSIR : 1 le soir {S}NOVA RA	1155481 1155491 23495 410
+ur {S}TAHOR 10 mg : 	TAHOR 10 mg:1 le soir	 {S}JOSIR : 1 le soir {S}NOVA RAPID : 16 UI le matin – 22 U	1155510 1155519 23496 411
+S}KARDEGIC 160 mg : 	KARDEGIC 160 mg:1 cp/jour	 {S}PLAVIX 75 mg : 1 cp/jour {S}IKOREL 10 mg : 1 cp x 2	1155655 1155664 23500 412
+r {S}PLAVIX 75 mg : 	PLAVIX 75 mg:1 cp/jour	 {S}IKOREL 10 mg : 1 cp x 2/jour {S}LASILIX 500 mg : ¼ cp/	1155684 1155693 23501 413
+r {S}IKOREL 10 mg : 	IKOREL 10 mg:1 cp x 2/jour	 {S}LASILIX 500 mg : ¼ cp/jour {S}HISTOIRE DE LA MALAD	1155713 1155726 23502 414
+{S}LASILIX 500 mg : 	LASILIX 500 mg:¼ cp/jour	 {S}HISTOIRE DE LA MALADIE : {S}Il s’agit d’un patient p	1155748 1155757 23503 415
+0 ml. {S}Héparine : 	Héparine:16000 UI.	 {S}PROTAMINE : 16000 UI. {S}Le patient a été mis sous insulin	1160068 1160077 23543 416
+ {S}LASILIX 40 mg : 	LASILIX 40 mg:3 cps/jour	 {S}CARDENSIEL 1,25 mg : 1 cp/jour {S}AMLOR 5 mg : 1 gél	1161910 1161920 23572 417
+ARDENSIEL 1,25 mg : 	CARDENSIEL 1,25 mg:1 cp/jour	 {S}AMLOR 5 mg : 1 gélule/jour {S}ASPEGIC 250 mg : 1	1161946 1161955 23573 418
+our {S}AMLOR 5 mg : 	AMLOR 5 mg:1 gélule/jour	 {S}ASPEGIC 250 mg : 1/jour {S}LOVENOX 0,4 ml : 1 inject	1161973 1161986 23574 419
+{S}ASPEGIC 250 mg : 	ASPEGIC 250 mg:1/jour	 {S}LOVENOX 0,4 ml : 1 injection sous-cutanée/24 heures {S}	1162008 1162014 23575 420
+{S}LOVENOX 0,4 ml : 	LOVENOX 0,4 ml:1 injection sous-cutanée/24 heures	 {S}UMULINE Rapide à la seringu	1162036 1162070 23576 421
+CARDENSIEL 2.5 mg : 	CARDENSIEL 2.5 mg:1 comprimé le matin _ 1 comprimé le soir	 {S}LASILIX 40 mg : 1 	1167303 1167343 23670 422
+ {S}LASILIX 40 mg : 	LASILIX 40 mg:1 comprimé le matin – ½ comprimé le midi	 {S}IKOREL 10 mg : 1 compr	1167364 1167404 23671 423
+i {S}IKOREL 10 mg : 	IKOREL 10 mg:1 comprimé le matin _ 1 comprimé le soir	 {S}NOVORAPID 100 UI/ml : 1	1167424 1167464 23672 424
+r {S}LERCAN 10 mg : 	LERCAN 10 mg:1 comprimé le matin	 {S}OFLOCET 200 mg : 1 comprimé le matin pendant	1167635 1167654 23676 425
+{S}OFLOCET 200 mg : 	OFLOCET 200 mg:1 comprimé le matin pendant encore 5 jours	 {S}COVERSYL 4 mg : 1 +	1167676 1167718 23677 426
+ {S}COVERSYL 4 mg : 	COVERSYL 4 mg:1 + ½ comprimé le midi	 {S}LANTUS 100 UI/ml : 28 UI le matin {S}KAR	1167739 1167761 23678 427
+S}KARDEGIC 160 mg : 	KARDEGIC 160 mg:1 sachet le midi	 {S}TAHOR 10 mg : 1 comprimé le soir {S}FONZYLAN	1167822 1167838 23680 428
+di {S}TAHOR 10 mg : 	TAHOR 10 mg:1 comprimé le soir	 {S}FONZYLANE 150 mg : 1 comprimé le matin _ 1 com	1167857 1167875 23681 429
+}FONZYLANE 150 mg : 	FONZYLANE 150 mg:1 comprimé le matin _ 1 comprimé le soir	 {S}TARDYFERON 80 mg : 	1167899 1167939 23682 430
+}TARDYFERON 80 mg : 	TARDYFERON 80 mg:1 comprimé le matin	 {S}SPECIAFOLDINE 5 mg : 1 comprimé le matin	1167963 1167982 23683 431
+PECIAFOLDINE 5 mg : 	SPECIAFOLDINE 5 mg:1 comprimé le matin	 {S}DEROXAT 20 mg : 1 comprimé le soir {S}	1168008 1168027 23684 432
+ {S}DEROXAT 20 mg : 	DEROXAT 20 mg:1 comprimé le soir	 {S}INEXIUM 20 mg : 1 comprimé le soir. {S}Consu	1168048 1168066 23685 433
+ {S}INEXIUM 20 mg : 	INEXIUM 20 mg:1 comprimé le soir.	 {S}Consultation Dr JARRY le 3 juillet 2009 ;{S	1168087 1168106 23686 434
+ilix IVD une fois : 	lasilix IVD une fois:80 mg	, puis Furosémide SE : 250 mg/24 h, quantifier la diur	1176440 1176445 23943 435
+uis Furosémide SE : 	puis Furosémide SE:250 mg/24 h, quantifier la diurèse (impératif), stop SE si diurèse quotidienne cumulée dépasse 4000ml.		1176468 1176570 23943 436
+uis Furosémide SE : 	Furosémide SE:250 mg/24 h, quantifier la diurèse (impératif), stop SE si diurèse quotidienne cumulée dépasse 4000ml.		1176468 1176570 23943 437
+, bilan hépatique : 	urée à 18 mmol/l, bilan hépatique:augmentation isolée des Gamma GT à 130 UI/l, bilirubine totale et indirecte normale.		1188727 1188811 24240 438
+{S}BUFLOMEDIL 150 : 	BUFLOMEDIL 150:2/j	 {S}KARDEGIC 75 : 1/j {S}TARDYFERON 80 : 1/j {S}DAFALGAN 1 g X	1200813 1200816 24477 439
+/j {S}KARDEGIC 75 : 	KARDEGIC 75:1/j	 {S}TARDYFERON 80 : 1/j {S}DAFALGAN 1 g X4/j {S}Allergie : Non co	1200835 1200838 24478 440
+ {S}TARDYFERON 80 : 	TARDYFERON 80:1/j	 {S}DAFALGAN 1 g X4/j {S}Allergie : Non connue. {S}Mode de vie 	1200859 1200862 24479 441
+{S}BUFLOMEDIL 150 : 	BUFLOMEDIL 150:2/j	 {S}KARDEGIC 75 : 1/j {S}TARDYFERON 80 : 1/j {S}DAFALGAN 1 g X	1210633 1210636 24645 442
+/j {S}KARDEGIC 75 : 	KARDEGIC 75:1/j	 {S}TARDYFERON 80 : 1/j {S}DAFALGAN 1 g X4/j {S}Allergie : Non co	1210655 1210658 24646 443
+ {S}TARDYFERON 80 : 	TARDYFERON 80:1/j	 {S}DAFALGAN 1 g X4/j {S}Allergie : Non connue. {S}Mode de vie 	1210679 1210682 24647 444
+/j {S}KARDEGIC 75 : 	KARDEGIC 75:1 sachet le midi	 {S}LOVENOX 4000 UI : 1 injection sous-cutané/j {S}R	1219870 1219886 24754 445
+S}LOVENOX 4000 UI : 	LOVENOX 4000 UI:1 injection sous-cutané/j	 {S}ROVAMYCINE 1.5 X3/j {S}AUGMENTIN 1 	1219909 1219934 24755 446
+LUCONAZOLE 200 mg : 	FLUCONAZOLE 200 mg:1 flacon/j	 {S}PERFALGAN 1 g X4/j {S}Oxygène 10 L/j {S}A reçu 	1220039 1220049 24759 447
+ur Ø LASILIX 20 mg, 	LASILIX 20 mg:un comprimé le matin	 {S}Nous vous prions de croire, Cher Confrère,	1227214 1227234 24885 448
+16 MG, CPR Statut : 	ATACAND 16 MG, CPR Statut:EC	 {S}A compter du 17/07/2009 pendant 30 jours par Voi	1243150 1243152 25258 449
+RALE {S}Posologie : 	ATACAND 16 MG, CPR Statut:1 cpr à 18 h	 {S}DAFALGAN 500 MG, GÉLULE Statut : EC {S	1243229 1243241 25260 450
+RALE {S}Posologie : 	Posologie:1 cpr à 18 h	 {S}DAFALGAN 500 MG, GÉLULE Statut : EC {S}A compter du 17	1243229 1243241 25260 451
+MG, GÉLULE Statut : 	DAFALGAN 500 MG, GÉLULE Statut:EC	 {S}A compter du 17/07/2009 pendant 8 jours par	1243279 1243281 25261 452
+RALE {S}Posologie : 	DAFALGAN 500 MG, GÉLULE Statut:(A la demande)	 {S}KARDEGIC 75 mg, pdr pr sol buv,	1243357 1243371 25263 453
+RALE {S}Posologie : 	Posologie:(A la demande)	 {S}KARDEGIC 75 mg, pdr pr sol buv, sachet Statut : EC {	1243357 1243371 25263 454
+uv, sachet Statut : 	KARDEGIC 75 mg, pdr pr sol buv, sachet Statut:EC	 {S}A compter du 23/07/2009 pend	1243424 1243426 25264 455
+RALE {S}Posologie : 	KARDEGIC 75 mg, pdr pr sol buv, sachet Statut:1 sachet à 12 h	 {S}KEPPRA 250 MG, 	1243503 1243518 25266 456
+RALE {S}Posologie : 	Posologie:1 sachet à 12 h	 {S}KEPPRA 250 MG, CPR Statut : EC {S}A compter du 23/0	1243503 1243518 25266 457
+50 MG, CPR Statut : 	KEPPRA 250 MG, CPR Statut:EC	 {S}A compter du 23/07/2009 pendant 6 jours par Voie	1243551 1243553 25267 458
+RALE {S}Posologie : 	KEPPRA 250 MG, CPR Statut:1 cpr à 8 h _ 1 cpr à 18 h	 {S}LASILIX 40 mg, cpr Statu	1243629 1243655 25269 459
+RALE {S}Posologie : 	Posologie:1 cpr à 8 h _ 1 cpr à 18 h	 {S}LASILIX 40 mg, cpr Statut : EC {S}A comp	1243629 1243655 25269 460
+40 mg, cpr Statut : 	LASILIX 40 mg, cpr Statut:EC	 {S}A compter du 18/07/2009 pendant 30 jours par Voi	1243688 1243690 25270 461
+RALE {S}Posologie : 	LASILIX 40 mg, cpr Statut:1 cpr à 8 h	 {S}OMEPRAZOLE 20 MG ARROW, GÉLULE Statut :	1243767 1243778 25272 462
+RALE {S}Posologie : 	Posologie:1 cpr à 8 h	 {S}OMEPRAZOLE 20 MG ARROW, GÉLULE Statut : EC {S}A compter	1243767 1243778 25272 463
+OW, GÉLULE Statut : 	OMEPRAZOLE 20 MG ARROW, GÉLULE Statut:EC	 {S}A compter du 17/07/2009 pendant 30 j	1243823 1243825 25273 464
+RALE {S}Posologie : 	OMEPRAZOLE 20 MG ARROW, GÉLULE Statut:2 gel à 18 h	 {S}PLAVIX 75 mg, cpr Statut :	1243902 1243914 25275 465
+RALE {S}Posologie : 	Posologie:2 gel à 18 h	 {S}PLAVIX 75 mg, cpr Statut : EC {S}A compter du 23/07/20	1243902 1243914 25275 466
+75 mg, cpr Statut : 	PLAVIX 75 mg, cpr Statut:EC	 {S}A compter du 23/07/2009 pendant 30 jours par Voie	1243946 1243948 25276 467
+RALE {S}Posologie : 	PLAVIX 75 mg, cpr Statut:1 cpr à 8 h	 {S}SOTALOL 80 MG EG, CPR Statut : EC {S}A c	1244025 1244036 25278 468
+RALE {S}Posologie : 	Posologie:1 cpr à 8 h	 {S}SOTALOL 80 MG EG, CPR Statut : EC {S}A compter du 18/07	1244025 1244036 25278 469
+MG EG, CPR Statut : 	SOTALOL 80 MG EG, CPR Statut:EC	 {S}A compter du 18/07/2009 pendant 30 jours par 	1244072 1244074 25279 470
+RALE {S}Posologie : 	SOTALOL 80 MG EG, CPR Statut:0,5 cpr à 8 h	 {S}TAHOR 80 MG, CPR Statut : EC {S}A 	1244151 1244164 25281 471
+RALE {S}Posologie : 	Posologie:0,5 cpr à 8 h	 {S}TAHOR 80 MG, CPR Statut : EC {S}A compter du 21/07/20	1244151 1244164 25281 472
+80 MG, CPR Statut : 	TAHOR 80 MG, CPR Statut:EC	 {S}A compter du 21/07/2009 pendant 30 jours par Voie 	1244195 1244197 25282 473
+RALE {S}Posologie : 	TAHOR 80 MG, CPR Statut:1 cpr à 12 h	 {S}TRIATEC 1.25 MG, CPR Statut : EC {S}A co	1244274 1244286 25284 474
+RALE {S}Posologie : 	Posologie:1 cpr à 12 h	 {S}TRIATEC 1.25 MG, CPR Statut : EC {S}A compter du 17/07	1244274 1244286 25284 475
+25 MG, CPR Statut : 	TRIATEC 1.25 MG, CPR Statut:EC	 {S}A compter du 17/07/2009 pendant 30 jours par V	1244321 1244323 25285 476
+RALE {S}Posologie : 	TRIATEC 1.25 MG, CPR Statut:1 cpr à 18 h	 {S}Date Nom du médecin {S}24/07/2009 LA	1244400 1244412 25287 477
+RALE {S}Posologie : 	Posologie:1 cpr à 18 h	 {S}Date Nom du médecin {S}24/07/2009 LAMY Chantal (PH) {S	1244400 1244412 25287 478
+ jour, LASILIX 40 : 	LASILIX 40:1 par jour	, SOTALOL 80 : ½ par jour, ATACAND 10 : 0_0_1, TRIATEC 1,25	1251598 1251608 25505 479
+ jour, SOTALOL 80 : 	SOTALOL 80:½ par jour	, ATACAND 10 : 0_0_1, TRIATEC 1,25 le soir, PREVISCAN : ½ p	1251623 1251633 25505 480
+ jour, ATACAND 10 : 	ATACAND 10:0_0_1	, TRIATEC 1,25 le soir, PREVISCAN : ½ par jour, OMEPRAZOLE 20 : 	1251648 1251653 25505 481
+e soir, PREVISCAN : 	TRIATEC 1,25 le soir, PREVISCAN:½ par jour	, OMEPRAZOLE 20 : 0_0_2. {S}A l’entrée	1251689 1251699 25505 482
+e soir, PREVISCAN : 	PREVISCAN:½ par jour	, OMEPRAZOLE 20 : 0_0_2. {S}A l’entrée, le score NIH au plan	1251689 1251699 25505 483
+ur, OMEPRAZOLE 20 : 	OMEPRAZOLE 20:0_0_2.	 {S}A l’entrée, le score NIH au plan neurologique était de 5	1251717 1251723 25505 484
+ {S}LASILIX 40 mg : 	LASILIX 40 mg:1_0_0,	 {S}SOTALOL 80 mg : ½ cp le matin, {S}OMEPRAZOLE 30 mg : 2 g	1257196 1257202 25569 485
+ {S}SOTALOL 80 mg : 	SOTALOL 80 mg:½ cp le matin,	 {S}OMEPRAZOLE 30 mg : 2 gélules le soir, {S}TAHOR 8	1257223 1257237 25570 486
+}OMEPRAZOLE 30 mg : 	OMEPRAZOLE 30 mg:2 gélules le soir,	 {S}TAHOR 80: 0_1_0, {S}KARDEGIC 75 mg: 0_1_0	1257261 1257279 25571 487
+ soir, {S}TAHOR 80: 	TAHOR 80:0_1_0,	 {S}KARDEGIC 75 mg: 0_1_0, {S}PLAVIX 75 mg: 1_0_0, {S}TRIATEC 5 m	1257294 1257300 25572 488
+ {S}KARDEGIC 75 mg: 	KARDEGIC 75 mg:0_1_0,	 {S}PLAVIX 75 mg: 1_0_0, {S}TRIATEC 5 mg : 1_0_0, {S}TARDYF	1257321 1257327 25573 489
+0, {S}PLAVIX 75 mg: 	PLAVIX 75 mg:1_0_0,	 {S}TRIATEC 5 mg : 1_0_0, {S}TARDYFERON 80 mg : 1 cp par jour	1257346 1257352 25574 490
+, {S}TRIATEC 5 mg : 	TRIATEC 5 mg:1_0_0,	 {S}TARDYFERON 80 mg : 1 cp par jour, {S}KEPPRA 500 : 1_0_1, 	1257372 1257378 25575 491
+}TARDYFERON 80 mg : 	TARDYFERON 80 mg:1 cp par jour,	 {S}KEPPRA 500 : 1_0_1, {S}ATACAND 16 mg, {S}La p	1257402 1257416 25576 492
+ur, {S}KEPPRA 500 : 	KEPPRA 500:1_0_1,	 {S}ATACAND 16 mg, {S}La patiente sera revue en consultation le	1257434 1257440 25577 493
+ {S}LASILIX 40 mg : 	LASILIX 40 mg:1 matin	 {S}COVERSYL 4 mg : 1 matin {S}ALDACTONE 25 mg : ½ matin {S	1265507 1265514 25810 494
+ {S}COVERSYL 4 mg : 	COVERSYL 4 mg:1 matin	 {S}ALDACTONE 25 mg : ½ matin {S}PREVISCAN : ½ cp soir {S}H	1265535 1265542 25811 495
+S}ALDACTONE 25 mg : 	ALDACTONE 25 mg:½ matin	 {S}PREVISCAN : ½ cp soir {S}HISTOIRE DE LA MALADIE : {S}	1265565 1265572 25812 496
+atin {S}PREVISCAN : 	PREVISCAN:½ cp soir	 {S}HISTOIRE DE LA MALADIE : {S}Le 21/10/2009, apparition bru	1265589 1265598 25813 497
+, ALDACTONE 50 mg : 	ALDACTONE 50 mg:1 par jour	, LASILIX 20 mg : 1 par jour, IMODIUM : 2 par jour. {S	1282887 1282897 26055 498
+ur, LASILIX 20 mg : 	LASILIX 20 mg:1 par jour	, IMODIUM : 2 par jour. {S}Histoire de la maladie : {S}M	1282915 1282925 26055 499
+par jour, IMODIUM : 	IMODIUM:2 par jour.	 {S}Histoire de la maladie : {S}Monsieur XXX était hospitalis	1282937 1282948 26055 500
+ {S}INEXIUM 40 mg : 	INEXIUM 40 mg:0_0_1.	 {S}DUPHALAC : 3_3_3. {S}SERETIDE Diskus 500/50 : 1_0_1. {S}	1287475 1287481 26099 501
+_0_1. {S}DUPHALAC : 	DUPHALAC:3_3_3.	 {S}SERETIDE Diskus 500/50 : 1_0_1. {S}SPIRIVA 18 µg : 1_0_0. {S}	1287497 1287503 26100 502
+ {S}SPIRIVA 18 µg : 	SPIRIVA 18 µg:1_0_0.	 {S}ALDACTONE 75 mg : 1_0_0. {S}MAGNE B6 : 1_1_1. {S}IMOVANE	1287560 1287566 26102 503
+S}ALDACTONE 75 mg : 	ALDACTONE 75 mg:1_0_0.	 {S}MAGNE B6 : 1_1_1. {S}IMOVANE 7,5 mg : 0_0_1. {S}LASILI	1287589 1287595 26103 504
+{S}IMOVANE 7,5 mg : 	IMOVANE 7,5 mg:0_0_1.	 {S}LASILIX 40 mg : 1_0_0. {S}Ventilation non invasive noct	1287639 1287645 26105 505
+ {S}LASILIX 40 mg : 	LASILIX 40 mg:1_0_0.	 {S}Ventilation non invasive nocturne avec les paramètres su	1287666 1287672 26106 506
+our Ø DAFALGAN 500, 	DAFALGAN 500:trois comprimés par jour	 Ø Compléments nutritifs. {S}Ö RV de scinti	1299520 1299544 26304 507
+ile : Ø LYRICA 75 : 	LYRICA 75:2/j	 Ø MOPRAL 20 : 1/j Ø KARDEGIC 160 : 1 le midi Ø NOCTRAN 10 : 1 au c	1322049 1322052 26820 508
+: 2/j Ø MOPRAL 20 : 	MOPRAL 20:1/j	 Ø KARDEGIC 160 : 1 le midi Ø NOCTRAN 10 : 1 au coucher Ø LASILIX 4	1322068 1322071 26820 509
+/j Ø KARDEGIC 160 : 	KARDEGIC 160:1 le midi	 Ø NOCTRAN 10 : 1 au coucher Ø LASILIX 40 : 1 le matin Ø C	1322090 1322099 26820 510
+cher Ø LASILIX 40 : 	LASILIX 40:1 le matin	 Ø CORTANCYL 5 mg : 1/j Ø CONTRAMAL LP 100 : 2/j Ø DIFFU K 	1322145 1322155 26820 511
+ Ø CORTANCYL 5 mg : 	CORTANCYL 5 mg:1/j	 Ø CONTRAMAL LP 100 : 2/j Ø DIFFU K : 1/j Ø HEXAQUINE si cramp	1322176 1322179 26820 512
+ CONTRAMAL LP 100 : 	CONTRAMAL LP 100:2/j	 Ø DIFFU K : 1/j Ø HEXAQUINE si crampes Ø AREXTRA : 1/j car 	1322202 1322205 26820 513
+ : Ø KARDEGIC 160 : 	KARDEGIC 160:1 par jour	 Ø LOVENOX 0,4 : 1 par jour Ø CORTANCYL 5 mg : 1/j Ø CONT	1329664 1329674 26882 514
+our Ø LOVENOX 0,4 : 	LOVENOX 0,4:1 par jour	 Ø CORTANCYL 5 mg : 1/j Ø CONTRAMAL 50 à la demande Ø CALC	1329692 1329702 26882 515
+ Ø CORTANCYL 5 mg : 	CORTANCYL 5 mg:1/j	 Ø CONTRAMAL 50 à la demande Ø CALCIDIA : 2 par jour Ø INEXIUM	1329723 1329726 26882 516
+emande Ø CALCIDIA : 	CALCIDIA:2 par jour	 Ø INEXIUM 40 : 1 le soir Ø DIFFU K : 2 matin, 2 midi et 2 so	1329770 1329780 26882 517
+jour Ø INEXIUM 40 : 	INEXIUM 40:1 le soir	 Ø DIFFU K : 2 matin, 2 midi et 2 soir ØDAFALGAN à la demand	1329797 1329806 26882 518
+SORTIE : Ø SPIRIVA, 	SPIRIVA:le matin	 Ø KARDEGIC 160, un le midi Ø CORDARONE, un comprimé le matin 5 	1342064 1342072 27171 519
+tin Ø KARDEGIC 160, 	KARDEGIC 160:un le midi	 Ø CORDARONE, un comprimé le matin 5 jours/7 Ø TRANSIPEG,	1342090 1342100 27171 520
+e midi Ø CORDARONE, 	CORDARONE:un comprimé le matin 5 jours/7	 Ø TRANSIPEG, deux sachets le matin Ø AM	1342115 1342145 27171 521
+le matin Ø AMLOR 5, 	AMLOR 5:une gélule le matin	 Ø ZOLPIDEM 10, ½ au coucher Ø NORSET 15, un le soir 	1342194 1342213 27171 522
+atin Ø ZOLPIDEM 10, 	ZOLPIDEM 10:½ au coucher	 Ø NORSET 15, un le soir Ø SERETIDE DISKUS, deux doses m	1342230 1342242 27171 523
+ LASILIX RETARD 60, 	LASILIX RETARD 60:une gélule le matin	 Ø ALDACTONE 25, un comprimé le matin Ø SIN	1342394 1342413 27171 524
+tin Ø ALDACTONE 25, 	ALDACTONE 25:un comprimé le matin	 Ø SINEMET LP 50, un comprimé matin et soir Ø K	1342431 1342451 27171 525
+ soir Ø KEPPRA 500, 	KEPPRA 500:½ comprimé matin et soir	 Ø SERESTA 10, ½ comprimé au coucher Ø INEXIU	1342511 1342535 27171 526
+ soir Ø SERESTA 10, 	SERESTA 10:½ comprimé au coucher	 Ø INEXIUM 20, un comprimé le soir Ø DOLIPRANE 5	1342551 1342572 27171 527
+ucher Ø INEXIUM 20, 	INEXIUM 20:un comprimé le soir	 Ø DOLIPRANE 500, deux sachets matin, midi et soir	1342588 1342607 27171 528
+ir Ø DOLIPRANE 500, 	DOLIPRANE 500:deux sachets matin, midi et soir si douleurs	 Ø BRICANYL-ATROVENT, 	1342626 1342670 27171 529
+deux sachets matin, 	DOLIPRANE 500, deux sachets matin:midi et soir si douleurs	 Ø BRICANYL-ATROVENT, 	1342646 1342670 27171 530
+r jour Ø MODOPAR 62,	MODOPAR 62:5 mg, un par jour	 Ø FORLAX 10, trois sachets par jour Ø PLAVIX 75, un	1352863 1352880 27349 531
+ Ø MODOPAR 62,5 mg, 	MODOPAR 62,5 mg:un par jour	 Ø FORLAX 10, trois sachets par jour Ø PLAVIX 75, un 	1352869 1352880 27349 532
+r jour Ø FORLAX 10, 	FORLAX 10:trois sachets par jour	 Ø PLAVIX 75, un par jour Ø DOLIPRANE 500, six s	1352895 1352917 27349 533
+r jour Ø PLAVIX 75, 	PLAVIX 75:un par jour	 Ø DOLIPRANE 500, six sachets par jour si douleurs Ø RIVOTR	1352932 1352943 27349 534
+ur Ø DOLIPRANE 500, 	DOLIPRANE 500:six sachets par jour si douleurs	 Ø RIVOTRIL 3 gttes par jour. {S}N	1352962 1352994 27349 535
+– Pravastatine 20 : 	Pravastatine 20:1 par jour.	 {S}Histoire de la maladie {S}La patiente est hospita	1364636 1364647 27639 536
+KCl/l _ Calciparine 	Calciparine:0.2 ml x 2 par jour en sous cutané	 _ Tazocilline 4 g x 2 par jour IV	1369729 1369763 27684 537
+Cl/l _ Calciparine 0	Calciparine 0:.2 ml x 2 par jour en sous cutané	 _ Tazocilline 4 g x 2 par jour I	1369730 1369763 27684 538
+utané _ Tazocilline 	Tazocilline:4 g x 2 par jour IVL 60 minutes	 _ Vancomycine 1 g par jour IVSE _ Ge	1369779 1369810 27684 539
+ané _ Tazocilline 4 	Tazocilline 4:g x 2 par jour IVL 60 minutes	 _ Vancomycine 1 g par jour IVSE _ Ge	1369781 1369810 27684 540
+é _ Tazocilline 4 g 	Tazocilline 4 g:x 2 par jour IVL 60 minutes	 _ Vancomycine 1 g par jour IVSE _ Ge	1369783 1369810 27684 541
+nutes _ Vancomycine 	Vancomycine:1 g par jour IVSE	 _ Gentamycine 240 mg, réaliser la deuxième injecti	1369826 1369843 27684 542
+tes _ Vancomycine 1 	Vancomycine 1:g par jour IVSE	 _ Gentamycine 240 mg, réaliser la deuxième injecti	1369828 1369843 27684 543
+s _ Vancomycine 1 g 	Vancomycine 1 g:par jour IVSE	 _ Gentamycine 240 mg, réaliser la deuxième injecti	1369830 1369843 27684 544
+amycine _ Cortancyl 	Cortancyl:5 mg le matin	 _ Sandimmum 75 mg x 2 par jour, recontrôler en fin de se	1369958 1369971 27684 545
+ycine _ Cortancyl 5 	Cortancyl 5:mg le matin	 _ Sandimmum 75 mg x 2 par jour, recontrôler en fin de se	1369960 1369971 27684 546
+ne _ Cortancyl 5 mg 	Cortancyl 5 mg:le matin	 _ Sandimmum 75 mg x 2 par jour, recontrôler en fin de se	1369963 1369971 27684 547
+e matin _ Sandimmum 	Sandimmum:75 mg x 2 par jour, recontrôler en fin de semaine le T0	 _ Zelitrex 500	1369985 1370040 27684 548
+atin _ Sandimmum 75 	Sandimmum 75:mg x 2 par jour, recontrôler en fin de semaine le T0	 _ Zelitrex 500	1369988 1370040 27684 549
+n _ Sandimmum 75 mg 	Sandimmum 75 mg:x 2 par jour, recontrôler en fin de semaine le T0	 _ Zelitrex 500	1369991 1370040 27684 550
+ne le T0 _ Zelitrex 	Zelitrex:500 mg x 2 par jour	 _ Atarax 25 mg ½ au coucher _ Inexium 20 mg le soir	1370053 1370072 27684 551
+e T0 _ Zelitrex 500 	Zelitrex 500:mg x 2 par jour	 _ Atarax 25 mg ½ au coucher _ Inexium 20 mg le soir	1370057 1370072 27684 552
+0 _ Zelitrex 500 mg 	Zelitrex 500 mg:x 2 par jour	 _ Atarax 25 mg ½ au coucher _ Inexium 20 mg le soir	1370060 1370072 27684 553
+2 par jour _ Atarax 	Atarax:25 mg ½ au coucher	 _ Inexium 20 mg le soir _ Spasfon x 2 en cas de douleu	1370083 1370101 27684 554
+ar jour _ Atarax 25 	Atarax 25:mg ½ au coucher	 _ Inexium 20 mg le soir _ Spasfon x 2 en cas de douleu	1370086 1370101 27684 555
+jour _ Atarax 25 mg 	Atarax 25 mg:½ au coucher	 _ Inexium 20 mg le soir _ Spasfon x 2 en cas de douleu	1370089 1370101 27684 556
+– Pravastatine 20 : 	Pravastatine 20:1 le soir.	 {S}HISTOIRE DE LA MALADIE {S}Patiente initialement ho	1375691 1375701 27822 557
+ritine à 252 µg/l : 	fer sérique abaissé à 6.5 µmol/l, coefficient de saturation à 11 %, ferritine à 252 µg/l:carence martiale.		1378062 1378079 27844 558
+. {S}Vitamine B12 : 	B12:478.	{S} Folates : 3.6 ng/ml. {S}Albumine : 26 g/l.{S} Pré albumine : 0.18 g/	1378099 1378103 27845 559
+g/ml. {S}Albumine : 	Albumine:26 g/l.	{S} Pré albumine : 0.18 g/l : dénutrition. {S}T0 de Sandimmum : 	1378143 1378150 27847 560
+S}T0 de Sandimmum : 	Sandimmum:88 ng/ml.	{S} T2 : 495 pg/ml. {S}Ionogramme urinaire : sodium à 59 mmol	1378215 1378224 27849 561
+rtie {S}Cortancyl : 	Cortancyl:5 mg le matin	 {S}Sandimmum : 50 mg matin et soir {S}Inexium 20 : 1 le 	1381864 1381877 27891 562
+atin {S}Sandimmum : 	Sandimmum:50 mg matin et soir	 {S}Inexium 20 : 1 le soir {S}Atarax 25 : ½ le soir	1381894 1381913 27892 563
+oir {S}Inexium 20 : 	Inexium 20:1 le soir	 {S}Atarax 25 : ½ le soir {S}Pravastatine 20 : 1 le soir {S}	1381931 1381940 27893 564
+soir {S}Atarax 25 : 	Atarax 25:½ le soir	 {S}Pravastatine 20 : 1 le soir {S}Dedrogyl : 20 gouttes par 	1381957 1381966 27894 565
+S}Pravastatine 20 : 	Pravastatine 20:1 le soir	 {S}Dedrogyl : 20 gouttes par semaine {S}Icaz LP 2.5 : 	1381989 1381998 27895 566
+r {S}Dafalgan 500 : 	Dafalgan 500:2 cp toutes les 8 heures en cas de douleur	 {S}Tadyferon 80 : 1 mati	1382084 1382126 27898 567
+t: Metformine 1000: 	Metformine 1000:3/jour	 {S}Lescol 80: 0_0_1 {S}Amlor 5: 1_0_0 {S}Coversyl4mg: 1_0	1385635 1385641 27984 568
+: 0_0_1 {S}Amlor 5: 	Amlor 5:1_0_0	 {S}Coversyl4mg: 1_0_0 diamicron30: 2_0_0 tardyferon80: 1/jour {S}I	1385676 1385681 27986 569
+2_0_0 tardyferon80: 	tardyferon80:1/jour	 {S}INEXIUM 40 MG: 0_0_1 {S}INNOHEP 0.7ml (pourquoi?) {S}DEPU	1385740 1385746 27987 570
+r {S}INEXIUM 40 MG: 	INEXIUM 40 MG:0_0_1	 {S}INNOHEP 0.7ml (pourquoi?) {S}DEPUIS LE 09/05/2009= {S}OXY	1385766 1385771 27988 571
+_1 {S}OXYNORM 5 mg: 	OXYNORM 5 mg:toutes les 4 heures si douleur	 {S}DUPHALAC: 2_0_0 {S}SOLUPRED 20mg:	1385872 1385902 27992 572
+ouleur {S}DUPHALAC: 	DUPHALAC:2_0_0	 {S}SOLUPRED 20mg: 2_0_0 {S}DIFFU K 600mg: 1_0_0 {S}LASILIX 40mg: 	1385917 1385922 27993 573
+0 {S}SOLUPRED 20mg: 	SOLUPRED 20mg:2_0_0	 {S}DIFFU K 600mg: 1_0_0 {S}LASILIX 40mg: 1_0_0 {S}Appareil n	1385942 1385947 27994 574
+_0 {S}LASILIX 40mg: 	LASILIX 40mg:1_0_0	 {S}Appareil neurologique {S}Glasgow: 15 {S}Ouverture aux yeux	1385991 1385996 27996 575
+besoin {S}INEXIUM : 	INEXIUM:0_0_40 mg	 {S}SOLUPRED 20 mg : 1_0_0 {S}AMLOR : 5 mg : 1_0_0 {S}COVERSYL 	1398506 1398515 28249 576
+{S}SOLUPRED 20 mg : 	SOLUPRED 20 mg:1_0_0	 {S}AMLOR : 5 mg : 1_0_0 {S}COVERSYL 4 mg : 1_0_0 {S}THERALE	1398537 1398542 28250 577
+ {S}COVERSYL 4 mg : 	COVERSYL 4 mg:1_0_0	 {S}THERALENE 0_0_XX gouttes {S}INNOHEP 0.6 ml/j {S}Suivi heb	1398588 1398593 28252 578
+besoin {S}INEXIUM : 	INEXIUM:0_0_40 mg	 {S}SOLUPRED 20 mg : 1_0_0 {S}AMLOR : 5 mg : 1_0_0 {S}COVERSYL 	1404393 1404402 28344 579
+{S}SOLUPRED 20 mg : 	SOLUPRED 20 mg:1_0_0	 {S}AMLOR : 5 mg : 1_0_0 {S}COVERSYL 4 mg : 1_0_0 {S}THERALE	1404424 1404429 28345 580
+ {S}COVERSYL 4 mg : 	COVERSYL 4 mg:1_0_0	 {S}THERALENE 0_0_XX gouttes {S}INNOHEP 0.6 ml/j {S}Suivi heb	1404475 1404480 28347 581
+besoin {S}INEXIUM : 	INEXIUM:0_0_40 mg	 {S}SOLUPRED 20 mg : 1_0_0 {S}AMLOR : 5 mg : 1_0_0 {S}COVERSYL 	1410179 1410188 28446 582
+{S}SOLUPRED 20 mg : 	SOLUPRED 20 mg:1_0_0	 {S}AMLOR : 5 mg : 1_0_0 {S}COVERSYL 4 mg : 1_0_0 {S}THERALE	1410210 1410215 28447 583
+ {S}COVERSYL 4 mg : 	COVERSYL 4 mg:1_0_0	 {S}THERALENE 0_0_XX gouttes {S}INNOHEP 0.6 ml/j {S}Suivi heb	1410261 1410266 28449 584
+S}DETENSIEL 10 mg : 	DETENSIEL 10 mg:½ cp le matin	 {S}TAHOR 10 mg : 1 cp le soir {S}COVERSYL 5 mg : 1	1418030 1418043 28615 585
+in {S}TAHOR 10 mg : 	TAHOR 10 mg:1 cp le soir	 {S}COVERSYL 5 mg : 1 cp le matin {S}INEXIUM 20 mg : 1 c	1418062 1418074 28616 586
+ {S}COVERSYL 5 mg : 	COVERSYL 5 mg:1 cp le matin	 {S}INEXIUM 20 mg : 1 cp le soir {S}ALDACTONE 25 mg :	1418095 1418108 28617 587
+ {S}INEXIUM 20 mg : 	INEXIUM 20 mg:1 cp le soir	 {S}ALDACTONE 25 mg : ½ cp le midi {S}KARDEGIC 75 mg :	1418129 1418141 28618 588
+S}ALDACTONE 25 mg : 	ALDACTONE 25 mg:½ cp le midi	 {S}KARDEGIC 75 mg : 1 sachet dose le midi {S}NATISP	1418164 1418176 28619 589
+{S}KARDEGIC 75 mg : 	KARDEGIC 75 mg:1 sachet dose le midi	 {S}NATISPRAY fort en sublingual : 1 pulvéri	1418198 1418219 28620 590
+rosols {S}INNOHEP : 	INNOHEP:1 injection sous-cutanée/jour	 {S}En vous remerciant de votre confiance. 	1423816 1423845 28696 591
+ {S}INEXIUM 20 mg : 	INEXIUM 20 mg:1 comprimé par jour le soir	 {S}CARDENSIEL 2,5 mg : 1/2 comprimé ma	1432107 1432134 28826 592
+CARDENSIEL 2,5 mg : 	CARDENSIEL 2,5 mg:1/2 comprimé matin, 1/2 comprimé le soir	 {S}COVERSYL 5 mg : 1 	1432159 1432199 28827 593
+ {S}COVERSYL 5 mg : 	COVERSYL 5 mg:1 comprimé par jour le matin	 {S}MYOLASTAN 50 mg : 1/2 comprimé par	1432220 1432248 28828 594
+S}MYOLASTAN 50 mg : 	MYOLASTAN 50 mg:1/2 comprimé par jour le soir	 {S}CORDARONE 200 mg : 1 comprimé p	1432271 1432300 28829 595
+}CORDARONE 200 mg : 	CORDARONE 200 mg:1 comprimé par jour le midi	 {S}ALDACTONE 25 mg : 1 comprimé par	1432324 1432351 28830 596
+S}ALDACTONE 25 mg : 	ALDACTONE 25 mg:1 comprimé par jour le midi	 {S}LASILIX 40 mg : 2 comprimés le ma	1432374 1432401 28831 597
+ {S}LASILIX 40 mg : 	LASILIX 40 mg:2 comprimés le matin, 1/2 comprimé le midi	 {S}TAHOR 40 mg : 1 comp	1432422 1432464 28832 598
+di {S}TAHOR 40 mg : 	TAHOR 40 mg:1 comprimé par jour le soir	 {S}KARDEGIC 160 mg : 1 sachet par jour l	1432483 1432510 28833 599
+S}KARDEGIC 160 mg : 	KARDEGIC 160 mg:1 sachet par jour le midi	 {S}INNOHEP 0,8 ml par jour le soir à 1	1432533 1432558 28834 600
+S}PREVISCAN 20 mg : 	PREVISCAN 20 mg:1 comprimé par jour le soir	 {S}Un INR est à réaliser demain. {S}	1432629 1432656 28836 601
+ suivant : _INEXIUM 	INEXIUM:2O 1 le soir	 _BISOPROLOL 2.5 le matin _ KARDEGIC 16O le midi _ PREVISCAN	1436799 1436811 28913 602
+suivant : _INEXIUM 2	INEXIUM 2:O 1 le soir	 _BISOPROLOL 2.5 le matin _ KARDEGIC 16O le midi _ PREVISCA	1436800 1436811 28913 603
+le soir _BISOPROLOL 	BISOPROLOL:2.5 le matin	 _ KARDEGIC 16O le midi _ PREVISCAN ½ cp pour INR entre 2	1436825 1436837 28913 604
+e soir _BISOPROLOL 2	BISOPROLOL 2:.5 le matin	 _ KARDEGIC 16O le midi _ PREVISCAN ½ cp pour INR entre 	1436826 1436837 28913 605
+le matin _ KARDEGIC 	KARDEGIC:16O le midi	 _ PREVISCAN ½ cp pour INR entre 2 et 3 _ LASILIX 4O le mati	1436850 1436861 28913 606
+ matin _ KARDEGIC 16	KARDEGIC 16:O le midi	 _ PREVISCAN ½ cp pour INR entre 2 et 3 _ LASILIX 4O le mat	1436852 1436861 28913 607
+le midi _ PREVISCAN 	PREVISCAN:½ cp pour INR entre 2 et 3	 _ LASILIX 4O le matin _ TAHOR 4O le soir _ 	1436875 1436901 28913 608
+re 2 et 3 _ LASILIX 	LASILIX:4O le matin	 _ TAHOR 4O le soir _ MYOLASTAN ½ cp le soir _ CORDARONE 1 cp	1436913 1436924 28913 609
+e 2 et 3 _ LASILIX 4	LASILIX 4:O le matin	 _ TAHOR 4O le soir _ MYOLASTAN ½ cp le soir _ CORDARONE 1 c	1436914 1436924 28913 610
+4O le matin _ TAHOR 	TAHOR:4O le soir	 _ MYOLASTAN ½ cp le soir _ CORDARONE 1 cp 1 j/2 _ ALDACTONE 25 	1436934 1436944 28913 611
+O le matin _ TAHOR 4	TAHOR 4:O le soir	 _ MYOLASTAN ½ cp le soir _ CORDARONE 1 cp 1 j/2 _ ALDACTONE 25	1436935 1436944 28913 612
+le soir _ MYOLASTAN 	MYOLASTAN:½ cp le soir	 _ CORDARONE 1 cp 1 j/2 _ ALDACTONE 25 le midi {S}Une surv	1436958 1436970 28913 613
+le soir _ CORDARONE 	CORDARONE:1 cp 1 j/2	 _ ALDACTONE 25 le midi {S}Une surveillance INR 2 fois initi	1436984 1436994 28913 614
+ soir _ CORDARONE 1 	CORDARONE 1:cp 1 j/2	 _ ALDACTONE 25 le midi {S}Une surveillance INR 2 fois initi	1436986 1436994 28913 615
+ROCORTISONE 50 µg : 	FLUDROCORTISONE 50 µg:1.5 cp le matin	 {S}LEVOTHYROX 100 µg : 1_0_0 {S}MINIRIN : 	1456332 1456347 29244 616
+LEVOTHYROX 100 µg : 	LEVOTHYROX 100 µg:1_0_0	 {S}MINIRIN : ¼ d’ampoule, ¼ d’ampoule le soir à poursuiv	1456372 1456377 29245 617
+ROCORTISONE 10 mg : 	HYDROCORTISONE 10 mg:2_1_0	 {S}REALDIET fibres 500 ml : 1 sachet trois fois par j	1456596 1456601 29248 618
+r {S}MOPRAL 20 mg : 	MOPRAL 20 mg:0_0_1	 {S}LOVENOX 4 000 UI : une injection s/c le soir {S}Potassium 	1456679 1456684 29250 619
+}LOVENOX 4 000 UI : 	LOVENOX 4 000 UI:une injection s/c le soir	 {S}Potassium sirop : 1_1_1 {S}En vous	1456708 1456733 29251 620
+S}Potassium sirop : 	Potassium sirop:1_1_1	 {S}En vous remerciant de votre confiance, je vous prie de 	1456756 1456761 29252 621
+ {S}COVERSYL 2 mg : 	COVERSYL 2 mg:1 matin et soir,	 {S}PLAVIX : 1 le midi, {S}SKENAN 60 mg : 1 matin 	1459397 1459413 29306 622
+t soir, {S}PLAVIX : 	PLAVIX:1 le midi,	 {S}SKENAN 60 mg : 1 matin et soir, {S}ATARAX 25 mg : 1 le soir	1459427 1459437 29307 623
+, {S}SKENAN 60 mg : 	SKENAN 60 mg:1 matin et soir,	 {S}ATARAX 25 mg : 1 le soir, {S}INIPOMP 30 mg : 1 	1459457 1459473 29308 624
+, {S}ATARAX 25 mg : 	ATARAX 25 mg:1 le soir,	 {S}INIPOMP 30 mg : 1 le soir, {S}ZELIREX : 1 le midi. {S	1459493 1459503 29309 625
+ {S}INIPOMP 30 mg : 	INIPOMP 30 mg:1 le soir,	 {S}ZELIREX : 1 le midi. {S}Histoire de la maladie : {S}	1459524 1459534 29310 626
+ur, {S}INEXIUM 20 : 	INEXIUM 20:1 le soir,	 {S}PLAVIX 75 : 1 le soir, {S}COVERSYL 2.5 mg : 1/jour, {S}	1463040 1463050 29353 627
+oir, {S}PLAVIX 75 : 	PLAVIX 75:1 le soir,	 {S}COVERSYL 2.5 mg : 1/jour, {S}ACTISKENAN 10 mg x 6/jour s	1463067 1463077 29354 628
+S}COVERSYL 2.5 mg : 	COVERSYL 2.5 mg:1/jour,	 {S}ACTISKENAN 10 mg x 6/jour si douleurs, {S}SKENAN 30 m	1463100 1463107 29355 629
+S}ZELITREX 500 mg : 	ZELITREX 500 mg:1/jour,	 {S}ATARAX 25 mg : 1 le soir. {S}En vous remerciant de vo	1463205 1463212 29358 630
+, {S}ATARAX 25 mg : 	ATARAX 25 mg:1 le soir.	 {S}En vous remerciant de votre confiance, je vous prie d	1463232 1463242 29359 631
+ORTIE : Ø LOVENOX 0,	LOVENOX 0:4, une injection sous-cutanée à 16 heures	 Ø DACUDOSE, une dose trois f	1513096 1513137 30217 632
+IE : Ø LOVENOX 0,4, 	LOVENOX 0,4:une injection sous-cutanée à 16 heures	 Ø DACUDOSE, une dose trois fo	1513099 1513137 30217 633
+il Ø DOLIPRANE 500, 	DOLIPRANE 500:2_2_2	 Ø XATRAL LP, 0_0_1 pendant 7 jours {S}Nous vous prions de cr	1513215 1513220 30217 634
+ : {S}OFLOCET 200 : 	OFLOCET 200:3 par jour pendant trois mois	 {S}RIMACTAN 300 mg : 2 gélules matin e	1530179 1530208 30674 635
+S}RIMACTAN 300 mg : 	RIMACTAN 300 mg:2 gélules matin et soir pendant trois mois	 {S}MOTILIUM : 1 cp ma	1530231 1530273 30675 636
+r {S}DAFALGAN 500 : 	DAFALGAN 500:2 gélules matin, midi et soir	 {S}LOVENOX 4000 : 1 injection par jou	1530381 1530410 30678 637
+r {S}LOVENOX 4000 : 	LOVENOX 4000:1 injection par jour.	 {S}Au total : {S}Ostéo-arthrite de la chevill	1530430 1530451 30679 638
+INE {S}ATARAX 100 : 	ATARAX 100:2 par jour	 {S}PROZAC : 2 par jour {S}MEPRONIZINE : 2 par jour {S}LEVO	1563123 1563133 31287 639
+ {S}LEVOTHYROX 75 : 	LEVOTHYROX 75:1 par jour.	 {S}Histoire de la maladie : {S}Le 18 avril vers 19h00,	1563207 1563218 31290 640
+if, buprénorphine : 	buprénorphine:positif.	 {S}L’ECG initial met en évidence une TV à type de retard 	1564652 1564660 31298 641
+t : {S}LASILIX 40 : 	LASILIX 40:1 le matin	 {S}DIFFU K : 1 le matin, 1 le midi, 1 le soir {S}CARDENSIE	1569266 1569276 31329 642
+{S}CARDENSIEL 2.5 : 	CARDENSIEL 2.5:1 le matin	 {S}TRIATEC 2.5 : 1 le soir {S}LEVOTHYROX 75 : 1 le mat	1569345 1569355 31331 643
+in {S}TRIATEC 2.5 : 	TRIATEC 2.5:1 le soir	 {S}LEVOTHYROX 75 : 1 le matin {S}ALDACTONE 50 : 1 le matin	1569374 1569383 31332 644
+ {S}LEVOTHYROX 75 : 	LEVOTHYROX 75:1 le matin	 {S}ALDACTONE 50 : 1 le matin {S}INIPOMP 20 : 1 le soir 	1569404 1569414 31333 645
+n {S}ALDACTONE 50 : 	ALDACTONE 50:1 le matin	 {S}INIPOMP 20 : 1 le soir {S}VALIUM 10 : 1 le matin, 1 l	1569434 1569444 31334 646
+tin {S}INIPOMP 20 : 	INIPOMP 20:1 le soir	 {S}VALIUM 10 : 1 le matin, 1 le midi, 1 le soir, 1 au couch	1569462 1569471 31335 647
+soir {S}VALIUM 10 : 	VALIUM 10:1 le matin, 1 le midi, 1 le soir, 1 au coucher	 {S}ATHYMIL 30 : 1 le so	1569488 1569534 31336 648
+her {S}ATHYMIL 30 : 	ATHYMIL 30:1 le soir	 {S}SUBUTEX 8 mg : 1 le matin, 1 le soir {S}DAFALGAN si doul	1569552 1569561 31337 649
+ {S}IMODIUM 30 ml : 	IMODIUM 30 ml:X 4 par jour,	 {S}CODENFAN : 1 flacon par jour, {S}LOVENOX 4 000 un	1596384 1596397 31991 650
+ENOX 4 000 unités : 	LOVENOX 4 000 unités:1 seringue par jour pendant 1 semaine,	 {S}Antalgique simple	1596459 1596497 31993 651
+ile : _ PRAVASTATINE	PRAVASTATINE:,	 _ PLAVIX 75, _ NAFTIDRAFURYL 3 par jour, _ SPIRIVA, _ ISILOX, _ B	1606689 1606690 32269 652
+VASTATINE, _ PLAVIX 	PLAVIX:75, _ NAFTIDRAFURYL 3 par jour,	 _ SPIRIVA, _ ISILOX, _ BRONCHODUAL, _ PIV	1606701 1606733 32269 653
+STATINE, _ PLAVIX 75	PLAVIX 75:, _ NAFTIDRAFURYL 3 par jour,	 _ SPIRIVA, _ ISILOX, _ BRONCHODUAL, _ PI	1606703 1606733 32269 654
+, _ SPIRIVA 18 µg : 	SPIRIVA 18 µg:1 par jour,	 _ HEMICORDARONE 200 mg : 1 par jour, _ INEXIUM 40 mg :	1613257 1613268 32328 655
+ICORDARONE 200 mg : 	HEMICORDARONE 200 mg:1 par jour,	 _ INEXIUM 40 mg : 1 par jour à poursuivre encor	1613295 1613306 32328 656
+, _ COVERSYL 2 mg : 	COVERSYL 2 mg:1 par jour,	 _ PREVISCAN 20 mg avec une alternance ½ et 0,75 cp. {S	1613418 1613429 32328 657
+moglobine glyquée : 	Hémoglobine glyquée:5,5	 {S}Bilan ferrique : fer 1,9, capacité totale de fixation	1625909 1625912 32647 658
+ 850, 2 fois/jour : 	glucophage à 850, 2 fois/jour:à réévaluer.	 {S}Sur le plan social, nous avons rem	1627239 1627251 32661 659
+TIE : Ø LASILIX 40, 	LASILIX 40:un le matin	 Ø KARDEGIC 75, un le midi Ø INIPOMP 20, un le soir Ø ZOLO	1627776 1627787 32667 660
+atin Ø KARDEGIC 75, 	KARDEGIC 75:un le midi	 Ø INIPOMP 20, un le soir Ø ZOLOFT 50, un matin et soir Ø 	1627804 1627814 32667 661
+ midi Ø INIPOMP 20, 	INIPOMP 20:un le soir	 Ø ZOLOFT 50, un matin et soir Ø LOVENOX 0,4, une injection	1627830 1627840 32667 662
+e soir Ø ZOLOFT 50, 	ZOLOFT 50:un matin et soir	 Ø LOVENOX 0,4, une injection le soir en sous-cutané Ø	1627855 1627871 32667 663
+et soir Ø LOVENOX 0,	LOVENOX 0:4, une injection le soir en sous-cutané	 Ø GLUCOPHAGE 850 mg, un matin,	1627885 1627924 32667 664
+soir Ø LOVENOX 0,4, 	LOVENOX 0,4:une injection le soir en sous-cutané	 Ø GLUCOPHAGE 850 mg, un matin, 	1627888 1627924 32667 665
+ GLUCOPHAGE 850 mg, 	GLUCOPHAGE 850 mg:un matin, midi et soir	 Ø FORTIMEL, trois par jour Ø FORLAX si 	1627947 1627969 32667 666
+E 850 mg, un matin, 	GLUCOPHAGE 850 mg, un matin:midi et soir	 Ø FORTIMEL, trois par jour Ø FORLAX si 	1627957 1627969 32667 667
+{S}KARDEGIC 75 mg : 	KARDEGIC 75 mg:1 sachet le midi	 {S}DOLIPRANE 500 mg : 2 cps 4 fois par jour si d	1642414 1642430 32973 668
+}DOLIPRANE 500 mg : 	DOLIPRANE 500 mg:2 cps 4 fois par jour si douleur	 {S}EQUANIL 250 mg : 1 cp matin	1642454 1642486 32974 669
+{S}EQUANIL 250 mg : 	EQUANIL 250 mg:1 cp matin et soir	 {S}TARDYFERON 80 mg : 1 cp matin et soir {S}SE	1642508 1642526 32975 670
+}TARDYFERON 80 mg : 	TARDYFERON 80 mg:1 cp matin et soir	 {S}SEVREDOL 10 mg : ½ cp une heure avant les	1642550 1642568 32976 671
+{S}SEVREDOL 10 mg : 	SEVREDOL 10 mg:½ cp une heure avant les pansements.	 {S}GLUCOPHAGE 850 : 3 cps pa	1642590 1642626 32977 672
+{S}GLUCOPHAGE 850 : 	GLUCOPHAGE 850:3 cps par jour	 {S}ZOLOFT 50 mg : 1 cp à 8 h 00, 1 cp à 20 h 00 {S	1642648 1642662 32978 673
+r {S}ZOLOFT 50 mg : 	ZOLOFT 50 mg:1 cp à 8 h 00, 1 cp à 20 h 00	 {S}INIPOMP 20 mg : 1 cp le soir {S}LE	1642682 1642711 32979 674
+ {S}INIPOMP 20 mg : 	INIPOMP 20 mg:1 cp le soir	 {S}LEVOTHYROX 100 mg : le matin {S}RESSOURCES DIABETI	1642732 1642744 32980 675
+LEVOTHYROX 100 mg : 	LEVOTHYROX 100 mg:le matin	 {S}RESSOURCES DIABETIQUES : 2 briques par jour {S}FOR	1642769 1642777 32981 676
+ar jour {S}FORLAX : 	FORLAX:2 sachets le matin si constipation.	 {S}Soins d’escarre sacrée {S}Soins de	1642839 1642874 32983 677
+: _ Lasilix 40 mg : 	Lasilix 40 mg:1 cp x 3/jour	 _ Kardégic 75 mg : 1 sachet/jour _ Vastarel 35 mg : 	1667451 1667464 33542 678
+_ Triatec 1.25 mg : 	Triatec 1.25 mg:1 cp/jour	 _ Cordarone 200 mg : 1 cp/jour le matin à 8 h _ Tahor 	1667628 1667637 33542 679
+ Cordarone 200 mg : 	Cordarone 200 mg:1 cp/jour le matin à 8 h	 _ Tahor 40 mg : 1 cp/jour le matin à 8	1667660 1667684 33542 680
+8 h _ Tahor 40 mg : 	Tahor 40 mg:1 cp/jour le matin à 8 h	 {S}Lovenox 0.4 : 1 injection/jour à 20 h, à	1667702 1667726 33542 681
+{S}METFORMINE 850 : 	METFORMINE 850:1_0_1	 {S}KARDEGIC 160 : 0_1_0 {S}DEROXAT 20 : 0_0_1 {S}BYETTA 10 	1677899 1677904 33830 682
+1 {S}KARDEGIC 160 : 	KARDEGIC 160:0_1_0	 {S}DEROXAT 20 : 0_0_1 {S}BYETTA 10 UI : 1_0_0 {S}DIAMICRON 30	1677924 1677929 33831 683
+1_0 {S}DEROXAT 20 : 	DEROXAT 20:0_0_1	 {S}BYETTA 10 UI : 1_0_0 {S}DIAMICRON 30 : 1_0_1 {S}CHIBROPROSCA	1677947 1677952 33832 684
+0 {S}DIAMICRON 30 : 	DIAMICRON 30:1_0_1	 {S}CHIBROPROSCAR 5 : 1_0_0 {S}NEURONTIN 800 : 1_1_1 {S}LASILI	1677997 1678002 33834 685
+S}CHIBROPROSCAR 5 : 	CHIBROPROSCAR 5:1_0_0	 {S}NEURONTIN 800 : 1_1_1 {S}LASILIX 40 : 1_0_0 {S}TAHOR 10	1678025 1678030 33835 686
+ {S}NEURONTIN 800 : 	NEURONTIN 800:1_1_1	 {S}LASILIX 40 : 1_0_0 {S}TAHOR 10 : 0_0_1 {S}ZESTRIL 20 : 2_	1678051 1678056 33836 687
+1_1 {S}LASILIX 40 : 	LASILIX 40:1_0_0	 {S}TAHOR 10 : 0_0_1 {S}ZESTRIL 20 : 2_0_0 {S}CERIS 20 : 1_0_0 {	1678074 1678079 33837 688
+1_0_0 {S}TAHOR 10 : 	TAHOR 10:0_0_1	 {S}ZESTRIL 20 : 2_0_0 {S}CERIS 20 : 1_0_0 {S}Allergie : Non connu	1678095 1678100 33838 689
+0_1 {S}ZESTRIL 20 : 	ZESTRIL 20:2_0_0	 {S}CERIS 20 : 1_0_0 {S}Allergie : Non connue. {S}Facteurs de ri	1678118 1678123 33839 690
+2_0_0 {S}CERIS 20 : 	CERIS 20:1_0_0	 {S}Allergie : Non connue. {S}Facteurs de risque cardiovasculaires	1678139 1678144 33840 691
+{S}METFORMINE 850 : 	METFORMINE 850:1_0_1	 {S}KARDEGIC 160 : 0_1_0 {S}DEROXAT 20 : 0_0_1 {S}BYETTA 10 	1685653 1685658 34004 692
+1 {S}KARDEGIC 160 : 	KARDEGIC 160:0_1_0	 {S}DEROXAT 20 : 0_0_1 {S}BYETTA 10 UI : 1_0_0 {S}DIAMICRON 30	1685678 1685683 34005 693
+1_0 {S}DEROXAT 20 : 	DEROXAT 20:0_0_1	 {S}BYETTA 10 UI : 1_0_0 {S}DIAMICRON 30 : 1_0_1 {S}CHIBROPROSCA	1685701 1685706 34006 694
+0 {S}DIAMICRON 30 : 	DIAMICRON 30:1_0_1	 {S}CHIBROPROSCAR 5 : 1_0_0 {S}NEURONTIN 800 : 1_1_1 {S}LASILI	1685751 1685756 34008 695
+S}CHIBROPROSCAR 5 : 	CHIBROPROSCAR 5:1_0_0	 {S}NEURONTIN 800 : 1_1_1 {S}LASILIX 40 : 1_0_0 {S}TAHOR 10	1685779 1685784 34009 696
+ {S}NEURONTIN 800 : 	NEURONTIN 800:1_1_1	 {S}LASILIX 40 : 1_0_0 {S}TAHOR 10 : 0_0_1 {S}ZESTRIL 20 : 2_	1685805 1685810 34010 697
+1_1 {S}LASILIX 40 : 	LASILIX 40:1_0_0	 {S}TAHOR 10 : 0_0_1 {S}ZESTRIL 20 : 2_0_0 {S}CERIS 20 : 1_0_0 {	1685828 1685833 34011 698
+1_0_0 {S}TAHOR 10 : 	TAHOR 10:0_0_1	 {S}ZESTRIL 20 : 2_0_0 {S}CERIS 20 : 1_0_0 {S}Histoire de la malad	1685849 1685854 34012 699
+0_1 {S}ZESTRIL 20 : 	ZESTRIL 20:2_0_0	 {S}CERIS 20 : 1_0_0 {S}Histoire de la maladie : {S}Mr t. présen	1685872 1685877 34013 700
+2_0_0 {S}CERIS 20 : 	CERIS 20:1_0_0	 {S}Histoire de la maladie : {S}Mr t. présentait une altération de	1685893 1685898 34014 701
+ie à 4.6 g/l. _ CRP 	CRP:à 190 mg/l	 _ hémoglobine HBa1c à 6.6 % _ NFS : anémie à 10.1 g/dl, leucocyte	1693155 1693165 34107 702
+_ PROFENID 100 mg : 	PROFENID 100 mg:2 cps/j	 _ LASILIX 40 mg : 1 cp le matin _ BYETTA 5 mcg : 10 styl	1697302 1697309 34133 703
+e _ ZESTRIL 20 mg : 	ZESTRIL 20 mg:1 cp le matin	 _ TAHOR 10 mg : 1 cp/j _ KARDEGIC 160 mg : 1 sachet 	1697429 1697442 34133 704
+tin _ TAHOR 10 mg : 	TAHOR 10 mg:1 cp/j	 _ KARDEGIC 160 mg : 1 sachet à midi _ DIAMICRON 30 mg : 1 cp 	1697460 1697466 34133 705
+_ KARDEGIC 160 mg : 	KARDEGIC 160 mg:1 sachet à midi	 _ DIAMICRON 30 mg : 1 cp le matin _ CALCIDOSE vi	1697488 1697503 34133 706
+ NEURONTIN 800 mg : 	NEURONTIN 800 mg:½ cp x2/j	 _ GLUCOPHAGE 850 mg : 2 cps/j _ CERIS 20 mg : 1 cp le	1697609 1697618 34133 707
+GLUCOPHAGE 850 mg : 	GLUCOPHAGE 850 mg:2 cps/j	 _ CERIS 20 mg : 1 cp le matin _ CHIBROPROSCAR 5 mg : 1	1697642 1697649 34133 708
+s/j _ CERIS 20 mg : 	CERIS 20 mg:1 cp le matin	 _ CHIBROPROSCAR 5 mg : 1 cp le matin {S}Nous vous reme	1697667 1697680 34133 709
+HIBROPROSCAR 5 mg : 	CHIBROPROSCAR 5 mg:1 cp le matin	 {S}Nous vous remercions de votre confiance et v	1697705 1697718 34133 710
+le : {S}IKOREL 10 : 	IKOREL 10:1 le matin, 1 le soir	 {S}KARDEGIC 75 : 1 le midi {S}METOPROLOL : ½ le 	1700419 1700440 34195 711
+ir {S}KARDEGIC 75 : 	KARDEGIC 75:1 le midi	 {S}METOPROLOL : ½ le matin, ½ le soir {S}EZETROL 10 : 1 pa	1700459 1700468 34196 712
+idi {S}METOPROLOL : 	METOPROLOL:½ le matin, ½ le soir	 {S}EZETROL 10 : 1 par jour {S}ELISOR 20 : 1 par	1700486 1700507 34197 713
+oir {S}EZETROL 10 : 	EZETROL 10:1 par jour	 {S}ELISOR 20 : 1 par jour {S}SPIRIVA : 1 par jour {S}INEXI	1700525 1700535 34198 714
+jour {S}ELISOR 20 : 	ELISOR 20:1 par jour	 {S}SPIRIVA : 1 par jour {S}INEXIUM 40 : 1 par jour {S}SERET	1700552 1700562 34199 715
+r jour {S}SPIRIVA : 	SPIRIVA:1 par jour	 {S}INEXIUM 40 : 1 par jour {S}SERETIDE 250 : 2 le matin, 2 le	1700577 1700587 34200 716
+our {S}INEXIUM 40 : 	INEXIUM 40:1 par jour	 {S}SERETIDE 250 : 2 le matin, 2 le soir {S}SOLUPRED 20 : 2	1700605 1700615 34201 717
+ir {S}SOLUPRED 20 : 	SOLUPRED 20:2 le matin	 {S}FIXICAL 500 : 1 le matin {S}EXOMUC : 1 le matin. {S}Hi	1700675 1700685 34203 718
+ {S}LASILIX 40 mg : 	LASILIX 40 mg:1 le matin	 {S}ELISOR 20 mg : 1 le soir {S}EZETROL 10 mg : 1 le soi	1704778 1704788 34242 719
+n {S}ELISOR 20 mg : 	ELISOR 20 mg:1 le soir	 {S}EZETROL 10 mg : 1 le soir {S}METOPROLOL 100 mg : ½ le 	1704808 1704817 34243 720
+ {S}EZETROL 10 mg : 	EZETROL 10 mg:1 le soir	 {S}METOPROLOL 100 mg : ½ le matin, ½ le soir {S}KARDEGIC	1704838 1704847 34244 721
+METOPROLOL 100 mg : 	METOPROLOL 100 mg:½ le matin, ½ le soir	 {S}KARDEGIC 75 mg : 1 le midi {S}PLAVIX 	1704872 1704893 34245 722
+{S}KARDEGIC 75 mg : 	KARDEGIC 75 mg:1 le midi	 {S}PLAVIX 75 mg : 1 le midi {S}SPIRIVA : 1 le matin {S}	1704915 1704924 34246 723
+i {S}PLAVIX 75 mg : 	PLAVIX 75 mg:1 le midi	 {S}SPIRIVA : 1 le matin {S}SOLUPRED 20 mg : 2 le matin {S	1704944 1704953 34247 724
+e midi {S}SPIRIVA : 	SPIRIVA:1 le matin	 {S}SOLUPRED 20 mg : 2 le matin {S}FIXICAL 500 : 1 le matin {S	1704968 1704978 34248 725
+{S}SOLUPRED 20 mg : 	SOLUPRED 20 mg:2 le matin	 {S}FIXICAL 500 : 1 le matin {S}SOLMUCOL : 2 le matin, 	1705000 1705010 34249 726
+it : IKOREL 10 mg : 	IKOREL 10 mg:1_0_1	, KARDEGIC 75 mg : 0_1_0, METOPROLOL : ½_0_1/2, EZETROL 10 mg 	1713077 1713082 34418 727
+1, KARDEGIC 75 mg : 	KARDEGIC 75 mg:0_1_0	, METOPROLOL : ½_0_1/2, EZETROL 10 mg : 1 par jour, ELISOR 2	1713101 1713106 34418 728
+0_1_0, METOPROLOL : 	METOPROLOL:½_0_1/2	, EZETROL 10 mg : 1 par jour, ELISOR 20 mg : 1 par jour, SPIRI	1713121 1713128 34418 729
+/2, EZETROL 10 mg : 	EZETROL 10 mg:1 par jour	, ELISOR 20 mg : 1 par jour, SPIRIVA : 1 par jour, INEXI	1713146 1713156 34418 730
+our, ELISOR 20 mg : 	ELISOR 20 mg:1 par jour	, SPIRIVA : 1 par jour, INEXIUM 40 mg : 1 par jour, SERET	1713173 1713183 34418 731
+par jour, SPIRIVA : 	SPIRIVA:1 par jour	, INEXIUM 40 mg : 1 par jour, SERETIDE 250 mg : 2_0_2, SOLUPRE	1713195 1713205 34418 732
+t soir Ø LERCAN 10, 	LERCAN 10:deux comprimés le soir	 Ø ALLOPURINOL 300, un comprimé le matin Ø TEMES	1740714 1740736 35023 733
+ Ø ALLOPURINOL 300, 	ALLOPURINOL 300:un comprimé le matin	 Ø TEMESTA 2,5, deux comprimés le soir Ø Per	1740757 1740777 35023 734
+e matin Ø TEMESTA 2,	TEMESTA 2:5, deux comprimés le soir	 Ø Perfusion de 250 cc de glucose sur 24 heur	1740791 1740816 35023 735
+atin Ø TEMESTA 2,5, 	TEMESTA 2,5:deux comprimés le soir	 Ø Perfusion de 250 cc de glucose sur 24 heure	1740794 1740816 35023 736
+09 19:15 augmentin: 	augmentin:1 g x 3 / jour non fait	 {S}Reminyl LP 8mg 1/j {S}LEROUX Mélanie (Admin	1757726 1757750 35428 737
+ FUROSEMIDE 20 mg : 	FUROSEMIDE 20 mg:2 cp le matin.	 {S}Histoire de la maladie : {S}La patiente est a	1769283 1769297 35685 738
+HEPTAMYL 187,8 mg : 	HEPTAMYL 187,8 mg:matin, midi et soir	 {S}INNOHEP 0,5 ml à 15h {S}PROCTOLOG : 1 l	1774341 1774360 35725 739
+{S}EQUANIL 250 mg : 	EQUANIL 250 mg:si agitation	 {S}TRANSIPEG : 2 sachets le matin {S}En vous remerci	1774453 1774465 35729 740

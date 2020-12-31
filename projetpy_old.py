@@ -19,16 +19,16 @@ else:
 					var3=open('infos.txt','w',encoding='utf-16-le')   
 					var2=open('subst.dic','w',encoding='utf-16-le')
 					var2.write("\ufeff")#BOM 
-					for i in range(ord(sys.argv[1][0].lower()),ord(sys.argv[1][2].lower())+1):
+					for i in range(ord(sys.argv[1][0].upper()),ord(sys.argv[1][2].upper())+1):
 						nbsb=0
-						page =urllib.request.urlopen("https://www.vidal.fr/medicaments/substances/liste-"+chr(i)+".html")
+						page =urllib.request.urlopen("https://www.vidal.fr/medicaments/substances/liste-"+chr(i)+".htm")
 						htmlcontent=page.read().decode('utf-8')
-						r=re.findall("<li class=\"\"><a href=\"medicaments/substances/(.+)\.html\"><(.+?)>(.+?)<",htmlcontent)
+						r=re.findall("Substance/(.+)\.htm\">(.+?)<",htmlcontent)
 						print("ASPIRATION DE MEDICAMENTS SUBSTANCE \\"+chr(i)+"/ ....")
 						for j in r:
 							nbsb+=1
 							nbtot+=1
-							var2.write(j[2]+",.N+subst\n")
+							var2.write(j[1]+",.N+subst\n")
 						var3.write("nombre substance de la lettre \\"+chr(i)+"/:"+str(nbsb)+"\n") 
 					var2.close()
 					var3.write("LE NOMBRE TOTAL DES SUBSTANCE = "+str(nbtot))
