@@ -32,7 +32,7 @@ To execute the project do the following steps :
 	 -select  **subst_enri.bin** in user ressources and **dela. fr** in system ressources
 	 
 
- - no the final step is to locate patterns and build concordens
+ - now the final step is to locate patterns and build concordens
 	 - chose locate pattern
 	 - select the projetpy.grf graph 
 	 - select all_matches and merge with output text 
