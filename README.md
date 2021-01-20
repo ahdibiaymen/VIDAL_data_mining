@@ -41,5 +41,4 @@ To execute the project do the following steps :
 	 - now build concordance to visualize the results
 		 - you can use a web browser for better appearance
 		 - the results are stored in **corpus-medical_snt\concord.html** file located in the same folder of **corpus-medical.txt**
-## **Screenshots**
-	<img src="images/1.png">
+
