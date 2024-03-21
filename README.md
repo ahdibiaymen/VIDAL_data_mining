@@ -42,7 +42,7 @@ then match each `drug` with its every possible `prescriptions` based on a big `m
  - Apply preprocessing & lexical parsing to `corpus-medical.txt` 
  - Open `subset_enri.dic` in DELA and compress the dictionary into FST. Two files `subst_enri.bin` and `subs_enri.inf` should be generated as in DELA folder
  - Apply the same steps for `subset.dic`
- - Open `projetpy.grf` in FSgraph to visualize extraction graphs schema
+ - Open `projetpy.grf` in FSgraph to visualize extraction graphs schemas
    - `projetpy.grf` represents the main graph that consists of 3 graphs (3 possible matchs):
      ![](images/main_graph.png)
    - `projetpy1.grf`
