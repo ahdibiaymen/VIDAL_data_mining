@@ -3,7 +3,7 @@ print("NOMBRES D'ARGUMENT PASSES",len(sys.argv)-1)
 if len(sys.argv)==1: 
 	print("ERREUR AUCUN ARGUMENT PASSEE")
 else:
-	if not(len(sys.argv)==2):#to launch the script : python projetpy.py letter1-letter2
+	if not(len(sys.argv)==2):#to launch the script : python scrapper.py letter1-letter2
 		print("ERREUR NOMBRE ARGUMENT DEPASSE LA LIMITE ,RESPECTEZ LA FORME A-Z")
 	else:
 		if not(sys.argv[1][1]=='-') or sys.argv[1][0].upper()>sys.argv[1][2].upper():
